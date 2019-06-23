@@ -3,7 +3,7 @@ class Point {
 	float x,y,z;
 	
 	def result(){
-		print "hello";
+		print("hello");
 		return 5;
 	}
 }
