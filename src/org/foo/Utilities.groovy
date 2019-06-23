@@ -6,6 +6,6 @@ class Utilities implements Serializable {
 		this.steps = steps
 	}
 	def mvn(args) {
-		steps.sh "make"
+		return this.steps.env.HOME
 	}
 }
