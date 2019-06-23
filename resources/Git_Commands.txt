@@ -49,9 +49,15 @@ Fetch from Remote Repository having latest change and integrate with our local r
 git pull
 
 
-To Create Branch
-================
+To Create Branch Locally
+========================
 git branch <branchName>
+
+
+To Create Branch Remotely once created Locally
+==============================================
+git checkout master
+git push origin <branchName>
 
 
 Show the working tree status
@@ -67,6 +73,21 @@ git checkout <branchName>
 Clone the code from one repository and trying to push the code in another repository
 ====================================================================================
 git push --mirror https://github.com/mustafashiyamwala/docker.git
+
+
+Move the HEAD to particular CommitID in branch
+==============================================
+git reset --hard <commitID>
+
+
+git reset --soft
+git merge
+git rebase
+git cherry-pick
+git diff
+git stash
+
+
 
 
 
