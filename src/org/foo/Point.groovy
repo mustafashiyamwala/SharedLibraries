@@ -2,8 +2,8 @@ package org.foo;
 class Point {
 	float x,y,z;
 	
-	def result(){
+	def result(int x, int y, int z){
 		print("hello");
-		return 5;
+		return (x+y+z);
 	}
 }
