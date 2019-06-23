@@ -4,7 +4,9 @@ import org.apache.commons.math3.primes.Primes
 class Numbers{
 	void parallelize(int count) {
 		if (!Primes.isPrime(count)) {
-			print "${count} was not prime"
+			return "${count} was not prime"
+		}else{
+			return "${count} was prime"
 		}
 	}
 }
