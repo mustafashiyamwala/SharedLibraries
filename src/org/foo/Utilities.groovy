@@ -9,8 +9,8 @@ class Utilities implements Serializable {
 		return this.steps.env.HOME
 	}
 	
-	static def mvn() {
-		return this.steps.env.BRANCH_NAME
+	static def mvn(step) {
+		return step.env.BRANCH_NAME
 	}
 
 }
