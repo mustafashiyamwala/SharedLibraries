@@ -1,0 +1,73 @@
+To create an empty Git repository on local machine or reinitialize an existing one
+==================================================================================
+git init
+
+
+To set Account Identity for this Repository
+===========================================
+git config --global user.email "mustafashiyamwala786@gmail.com"
+git config --global user.name "mustafashiyamwala"
+
+
+List all the Configuration
+==========================
+git config -l
+
+
+Connecting Local Repository to Remote Repository first time.
+============================================================
+git remote add origin https://github.com/<git username>/docker.git
+
+
+Pushing the code from Local Repository to Remote Repository first time.
+=======================================================================
+git push -u origin master
+
+
+To Clone a Remote Repository into a Local machine
+================================================= 
+git clone https://github.com/mustafashiyamwala/building-a-multibranch-pipeline-project.git
+
+
+To Add file contents to the index
+=================================
+git add <filename>
+
+
+Record changes to the repository
+================================
+git commit -m "<message>"
+
+
+Update remote refs along with associated objects  
+=================================================
+git push
+
+
+Fetch from Remote Repository having latest change and integrate with our local repository
+=========================================================================================
+git pull
+
+
+To Create Branch
+================
+git branch <branchName>
+
+
+Show the working tree status
+============================
+git status
+
+
+To Switch branches
+==================
+git checkout <branchName>
+
+
+Clone the code from one repository and trying to push the code in another repository
+====================================================================================
+git push --mirror https://github.com/mustafashiyamwala/docker.git
+
+
+
+git rm -r 
