@@ -12,7 +12,7 @@ class Utilities implements Serializable {
 		return this.steps.env.HOME
 	}
 	
-	static def mvn(step) {
+	static def mvn(step, args) {
 		return step.env.BRANCH_NAME
 	}
 
