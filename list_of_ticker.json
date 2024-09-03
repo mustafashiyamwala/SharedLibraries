@@ -1,0 +1,5866 @@
+{
+    "tickers": [
+        {
+            "ticker": "nvda",
+            "company_name": "NVIDIA CORP",
+            "cik": "1045810",
+            "country": "us"
+        },
+        {
+            "ticker": "aapl",
+            "company_name": "Apple Inc.",
+            "cik": "320193",
+            "country": "us"
+        },
+        {
+            "ticker": "msft",
+            "company_name": "MICROSOFT CORP",
+            "cik": "789019",
+            "country": "us"
+        },
+        {
+            "ticker": "amzn",
+            "company_name": "AMAZON.COM INC",
+            "cik": "1018724",
+            "country": "us"
+        },
+        {
+            "ticker": "goog",
+            "company_name": "Alphabet Inc.",
+            "cik": "1652044",
+            "country": "us"
+        },
+        {
+            "ticker": "meta",
+            "company_name": "Meta Platforms, Inc.",
+            "cik": "1326801",
+            "country": "us"
+        },
+        {
+            "ticker": "amd",
+            "company_name": "ADVANCED MICRO DEVICES INC",
+            "cik": "2488",
+            "country": "us"
+        },
+        {
+            "ticker": "intc",
+            "company_name": "INTEL CORP",
+            "cik": "50863",
+            "country": "us"
+        },
+		{
+            "ticker": "tsla",
+            "company_name": "Tesla, Inc.",
+            "cik": "1318605",
+            "country": "us"
+        },
+        {
+            "ticker": "lly",
+            "company_name": "ELI LILLY & Co",
+            "cik": "59478",
+            "country": "us"
+        },
+        {
+            "ticker": "abbv",
+            "company_name": "AbbVie Inc.",
+            "cik": "1551152",
+            "country": "us"
+        },
+        {
+            "ticker": "nvo",
+            "company_name": "NOVO NORDISK A S",
+            "cik": "353278",
+            "country": "us"
+        },
+        {
+            "ticker": "pdd",
+            "company_name": "PDD Holdings Inc.",
+            "cik": "1737806",
+            "country": "us"
+        },
+        {
+            "ticker": "crwd",
+            "company_name": "CrowdStrike Holdings, Inc.",
+            "cik": "1535527",
+            "country": "us"
+        },
+        {
+            "ticker": "o",
+            "company_name": "REALTY INCOME CORP",
+            "cik": "726728",
+            "country": "us"
+        },
+        {
+            "ticker": "bx",
+            "company_name": "Blackstone Inc.",
+            "cik": "1393818",
+            "country": "us"
+        },
+        {
+            "ticker": "jnj",
+            "company_name": "JOHNSON & JOHNSON",
+            "cik": "200406",
+            "country": "us"
+        },
+        {
+            "ticker": "avgo",
+            "company_name": "Broadcom Inc.",
+            "cik": "1730168",
+            "country": "us"
+        },
+        {
+            "ticker": "baba",
+            "company_name": "Alibaba Group Holding Ltd",
+            "cik": "1577552",
+            "country": "us"
+        },
+        {
+            "ticker": "smci",
+            "company_name": "Super Micro Computer, Inc.",
+            "cik": "1375365",
+            "country": "us"
+        },
+        {
+            "ticker": "byddf",
+            "company_name": "BYD CO LTD",
+            "cik": "1445162",
+            "country": "us"
+        },
+        {
+            "ticker": "tcehy",
+            "company_name": "Tencent Holdings Ltd",
+            "cik": "1293451",
+            "country": "us"
+        },
+        {
+            "ticker": "pfe",
+            "company_name": "PFIZER INC",
+            "cik": "78003",
+            "country": "us"
+        },
+        {
+            "ticker": "mrk",
+            "company_name": "Merck & Co., Inc.",
+            "cik": "310158",
+            "country": "us"
+        },
+        {
+            "ticker": "nem",
+            "company_name": "NEWMONT Corp /DE/",
+            "cik": "1164727",
+            "country": "us"
+        },
+        {
+            "ticker": "xpev",
+            "company_name": "XPENG INC.",
+            "cik": "1810997",
+            "country": "us"
+        },
+        {
+            "ticker": "dg",
+            "company_name": "DOLLAR GENERAL CORP",
+            "cik": "29534",
+            "country": "us"
+        },
+        {
+            "ticker": "asml",
+            "company_name": "ASML HOLDING NV",
+            "cik": "937966",
+            "country": "us"
+        },
+        {
+            "ticker": "panw",
+            "company_name": "Palo Alto Networks Inc",
+            "cik": "1327567",
+            "country": "us"
+        },
+        {
+            "ticker": "ocsl",
+            "company_name": "Oaktree Specialty Lending Corp",
+            "cik": "1414932",
+            "country": "us"
+        },
+        {
+            "ticker": "byddy",
+            "company_name": "BYD CO LTD",
+            "cik": "1445162",
+            "country": "us"
+        },
+        {
+            "ticker": "crm",
+            "company_name": "Salesforce, Inc.",
+            "cik": "1108524",
+            "country": "us"
+        },
+        {
+            "ticker": "uso",
+            "company_name": "United States Oil Fund, LP",
+            "cik": "1327068",
+            "country": "us"
+        },
+        {
+            "ticker": "anf",
+            "company_name": "ABERCROMBIE & FITCH CO /DE/",
+            "cik": "1018840",
+            "country": "us"
+        },
+        {
+            "ticker": "isd",
+            "company_name": "PGIM High Yield Bond Fund, Inc.",
+            "cik": "1534880",
+            "country": "us"
+        },
+        {
+            "ticker": "smh",
+            "company_name": "VanEck Vectors Semiconductor ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "ghy",
+            "company_name": "PGIM Global High Yield Fund, Inc.",
+            "cik": "1554697",
+            "country": "us"
+        },
+        {
+            "ticker": "amgn",
+            "company_name": "AMGEN INC",
+            "cik": "318154",
+            "country": "us"
+        },
+        {
+            "ticker": "arcc",
+            "company_name": "ARES CAPITAL CORP",
+            "cik": "1287750",
+            "country": "us"
+        },
+        {
+            "ticker": "dell",
+            "company_name": "Dell Technologies Inc.",
+            "cik": "1571996",
+            "country": "us"
+        },
+        {
+            "ticker": "puls",
+            "company_name": "PGIM ULTRA SHORT BOND ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "phyl",
+            "company_name": "PGIM ACTIVE HIGH YIELD BOND",
+            "country": "us"
+        },
+        {
+            "ticker": "babaf",
+            "company_name": "Alibaba Group Holding Ltd",
+            "cik": "1577552",
+            "country": "us"
+        },
+        {
+            "ticker": "v",
+            "company_name": "VISA INC.",
+            "cik": "1403161",
+            "country": "us"
+        },
+        {
+            "ticker": "s",
+            "company_name": "SentinelOne, Inc.",
+            "cik": "1583708",
+            "country": "us"
+        },
+        {
+            "ticker": "li",
+            "company_name": "Li Auto Inc.",
+            "cik": "1791706",
+            "country": "us"
+        },
+        {
+            "ticker": "mu",
+            "company_name": "MICRON TECHNOLOGY INC",
+            "cik": "723125",
+            "country": "us"
+        },
+        {
+            "ticker": "cvx",
+            "company_name": "CHEVRON CORP",
+            "cik": "93410",
+            "country": "us"
+        },
+        {
+            "ticker": "mdb",
+            "company_name": "MongoDB, Inc.",
+            "cik": "1441816",
+            "country": "us"
+        },
+        {
+            "ticker": "dis",
+            "company_name": "Walt Disney Co",
+            "cik": "1744489",
+            "country": "us"
+        },
+        {
+            "ticker": "xom",
+            "company_name": "EXXON MOBIL CORP",
+            "cik": "34088",
+            "country": "us"
+        },
+        {
+            "ticker": "hqh",
+            "company_name": "abrdn Healthcare Investors",
+            "cik": "805267",
+            "country": "us"
+        },
+        {
+            "ticker": "okta",
+            "company_name": "Okta, Inc.",
+            "cik": "1660134",
+            "country": "us"
+        },
+        {
+            "ticker": "snow",
+            "company_name": "Snowflake Inc.",
+            "cik": "1640147",
+            "country": "us"
+        },
+        {
+            "ticker": "para",
+            "company_name": "Paramount Global",
+            "cik": "813828",
+            "country": "us"
+        },
+        {
+            "ticker": "csco",
+            "company_name": "CISCO SYSTEMS, INC.",
+            "cik": "858877",
+            "country": "us"
+        },
+        {
+            "ticker": "afrm",
+            "company_name": "Affirm Holdings, Inc.",
+            "cik": "1820953",
+            "country": "us"
+        },
+        {
+            "ticker": "lulu",
+            "company_name": "lululemon athletica inc.",
+            "cik": "1397187",
+            "country": "us"
+        },
+        {
+            "ticker": "t",
+            "company_name": "AT&T INC.",
+            "cik": "732717",
+            "country": "us"
+        },
+        {
+            "ticker": "ba",
+            "company_name": "BOEING CO",
+            "cik": "12927",
+            "country": "us"
+        },
+        {
+            "ticker": "jd",
+            "company_name": "JD.com, Inc.",
+            "cik": "1549802",
+            "country": "us"
+        },
+        {
+            "ticker": "ko",
+            "company_name": "COCA COLA CO",
+            "cik": "21344",
+            "country": "us"
+        },
+        {
+            "ticker": "zs",
+            "company_name": "Zscaler, Inc.",
+            "cik": "1713683",
+            "country": "us"
+        },
+        {
+            "ticker": "ma",
+            "company_name": "Mastercard Inc",
+            "cik": "1141391",
+            "country": "us"
+        },
+        {
+            "ticker": "nke",
+            "company_name": "NIKE, Inc.",
+            "cik": "320187",
+            "country": "us"
+        },
+        {
+            "ticker": "ccj",
+            "company_name": "CAMECO CORP",
+            "cik": "1009001",
+            "country": "us"
+        },
+        {
+            "ticker": "pep",
+            "company_name": "PEPSICO INC",
+            "cik": "77476",
+            "country": "us"
+        },
+        {
+            "ticker": "wmt",
+            "company_name": "Walmart Inc.",
+            "cik": "104169",
+            "country": "us"
+        },
+        {
+            "ticker": "cop",
+            "company_name": "CONOCOPHILLIPS",
+            "cik": "1163165",
+            "country": "us"
+        },
+        {
+            "ticker": "sjm",
+            "company_name": "J M SMUCKER Co",
+            "cik": "91419",
+            "country": "us"
+        },
+        {
+            "ticker": "now",
+            "company_name": "ServiceNow, Inc.",
+            "cik": "1373715",
+            "country": "us"
+        },
+        {
+            "ticker": "dbo",
+            "company_name": "Invesco DB Oil Fund",
+            "cik": "1383058",
+            "country": "us"
+        },
+        {
+            "ticker": "dbe",
+            "company_name": "Invesco DB Energy Fund",
+            "cik": "1383062",
+            "country": "us"
+        },
+        {
+            "ticker": "vis",
+            "company_name": "VANGUARD INDUSTRIALS ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "epp",
+            "company_name": "ISHARES MSCI PACIFIC EX JAPA",
+            "country": "us"
+        },
+        {
+            "ticker": "iyj",
+            "company_name": "ISHARES U.S. INDUSTRIALS ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "xlu",
+            "company_name": "UTILITIES SELECT SECTOR SPDR",
+            "country": "us"
+        },
+        {
+            "ticker": "ice",
+            "company_name": "Intercontinental Exchange, Inc.",
+            "cik": "1571949",
+            "country": "us"
+        },
+        {
+            "ticker": "ibm",
+            "company_name": "INTERNATIONAL BUSINESS MACHINES CORP",
+            "cik": "51143",
+            "country": "us"
+        },
+        {
+            "ticker": "bidu",
+            "company_name": "Baidu, Inc.",
+            "cik": "1329099",
+            "country": "us"
+        },
+        {
+            "ticker": "five",
+            "company_name": "FIVE BELOW, INC",
+            "cik": "1177609",
+            "country": "us"
+        },
+        {
+            "ticker": "gold",
+            "company_name": "BARRICK GOLD CORP",
+            "cik": "756894",
+            "country": "us"
+        },
+        {
+            "ticker": "veev",
+            "company_name": "VEEVA SYSTEMS INC",
+            "cik": "1393052",
+            "country": "us"
+        },
+        {
+            "ticker": "pypl",
+            "company_name": "PayPal Holdings, Inc.",
+            "cik": "1633917",
+            "country": "us"
+        },
+        {
+            "ticker": "inda",
+            "company_name": "ISHARES MSCI INDIA ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "sivr",
+            "company_name": "abrdn Silver ETF Trust",
+            "cik": "1450922",
+            "country": "us"
+        },
+        {
+            "ticker": "burl",
+            "company_name": "Burlington Stores, Inc.",
+            "cik": "1579298",
+            "country": "us"
+        },
+        {
+            "ticker": "gsbd",
+            "company_name": "Goldman Sachs BDC, Inc.",
+            "cik": "1572694",
+            "country": "us"
+        },
+        {
+            "ticker": "jjetf",
+            "company_name": "BARCLAYS BANK PLC",
+            "cik": "312070",
+            "country": "us"
+        },
+        {
+            "ticker": "d",
+            "company_name": "DOMINION ENERGY, INC",
+            "cik": "715957",
+            "country": "us"
+        },
+        {
+            "ticker": "fl",
+            "company_name": "FOOT LOCKER, INC.",
+            "cik": "850209",
+            "country": "us"
+        },
+        {
+            "ticker": "et",
+            "company_name": "Energy Transfer LP",
+            "cik": "1276187",
+            "country": "us"
+        },
+        {
+            "ticker": "mo",
+            "company_name": "ALTRIA GROUP, INC.",
+            "cik": "764180",
+            "country": "us"
+        },
+        {
+            "ticker": "tm",
+            "company_name": "TOYOTA MOTOR CORP/",
+            "cik": "1094517",
+            "country": "us"
+        },
+        {
+            "ticker": "ry",
+            "company_name": "ROYAL BANK OF CANADA",
+            "cik": "1000275",
+            "country": "us"
+        },
+        {
+            "ticker": "dq",
+            "company_name": "DAQO NEW ENERGY CORP.",
+            "cik": "1477641",
+            "country": "us"
+        },
+        {
+            "ticker": "cm",
+            "company_name": "CANADIAN IMPERIAL BANK OF COMMERCE /CAN/",
+            "cik": "1045520",
+            "country": "us"
+        },
+        {
+            "ticker": "mmm",
+            "company_name": "3M CO",
+            "cik": "66740",
+            "country": "us"
+        },
+        {
+            "ticker": "hpq",
+            "company_name": "HP INC",
+            "cik": "47217",
+            "country": "us"
+        },
+        {
+            "ticker": "sny",
+            "company_name": "Sanofi",
+            "cik": "1121404",
+            "country": "us"
+        },
+        {
+            "ticker": "box",
+            "company_name": "BOX INC",
+            "cik": "1372612",
+            "country": "us"
+        },
+        {
+            "ticker": "nio",
+            "company_name": "NIO Inc.",
+            "cik": "1736541",
+            "country": "us"
+        },
+        {
+            "ticker": "ges",
+            "company_name": "GUESS INC",
+            "cik": "912463",
+            "country": "us"
+        },
+        {
+            "ticker": "kss",
+            "company_name": "KOHLS Corp",
+            "cik": "885639",
+            "country": "us"
+        },
+        {
+            "ticker": "pii",
+            "company_name": "Polaris Inc.",
+            "cik": "931015",
+            "country": "us"
+        },
+        {
+            "ticker": "blk",
+            "company_name": "BlackRock Inc.",
+            "cik": "1364742",
+            "country": "us"
+        },
+        {
+            "ticker": "nnn",
+            "company_name": "NNN REIT, INC.",
+            "cik": "751364",
+            "country": "us"
+        },
+        {
+            "ticker": "puk",
+            "company_name": "PRUDENTIAL PLC",
+            "cik": "1116578",
+            "country": "us"
+        },
+        {
+            "ticker": "pvh",
+            "company_name": "PVH CORP. /DE/",
+            "cik": "78239",
+            "country": "us"
+        },
+        {
+            "ticker": "bby",
+            "company_name": "BEST BUY CO INC",
+            "cik": "764478",
+            "country": "us"
+        },
+        {
+            "ticker": "ddd",
+            "company_name": "3D SYSTEMS CORP",
+            "cik": "910638",
+            "country": "us"
+        },
+        {
+            "ticker": "oke",
+            "company_name": "ONEOK INC /NEW/",
+            "cik": "1039684",
+            "country": "us"
+        },
+        {
+            "ticker": "cpb",
+            "company_name": "CAMPBELL SOUP CO",
+            "cik": "16732",
+            "country": "us"
+        },
+        {
+            "ticker": "nrg",
+            "company_name": "NRG ENERGY, INC.",
+            "cik": "1013871",
+            "country": "us"
+        },
+        {
+            "ticker": "wpc",
+            "company_name": "W. P. Carey Inc.",
+            "cik": "1025378",
+            "country": "us"
+        },
+        {
+            "ticker": "adc",
+            "company_name": "AGREE REALTY CORP",
+            "cik": "917251",
+            "country": "us"
+        },
+        {
+            "ticker": "jjp",
+            "company_name": "BARCLAYS BANK PLC",
+            "cik": "312070",
+            "country": "us"
+        },
+        {
+            "ticker": "hmc",
+            "company_name": "HONDA MOTOR CO LTD",
+            "cik": "715153",
+            "country": "us"
+        },
+        {
+            "ticker": "nee",
+            "company_name": "NEXTERA ENERGY INC",
+            "cik": "753308",
+            "country": "us"
+        },
+        {
+            "ticker": "abt",
+            "company_name": "ABBOTT LABORATORIES",
+            "cik": "1800",
+            "country": "us"
+        },
+        {
+            "ticker": "bns",
+            "company_name": "BANK OF NOVA SCOTIA",
+            "cik": "9631",
+            "country": "us"
+        },
+        {
+            "ticker": "aem",
+            "company_name": "AGNICO EAGLE MINES LTD",
+            "cik": "2809",
+            "country": "us"
+        },
+        {
+            "ticker": "hrl",
+            "company_name": "HORMEL FOODS CORP /DE/",
+            "cik": "48465",
+            "country": "us"
+        },
+        {
+            "ticker": "bmy",
+            "company_name": "BRISTOL MYERS SQUIBB CO",
+            "cik": "14272",
+            "country": "us"
+        },
+        {
+            "ticker": "exr",
+            "company_name": "Extra Space Storage Inc.",
+            "cik": "1289490",
+            "country": "us"
+        },
+        {
+            "ticker": "mgm",
+            "company_name": "MGM Resorts International",
+            "cik": "789570",
+            "country": "us"
+        },
+        {
+            "ticker": "wds",
+            "company_name": "WOODSIDE ENERGY GROUP LTD",
+            "cik": "844551",
+            "country": "us"
+        },
+        {
+            "ticker": "bbh",
+            "company_name": "VanEck Vectors Biotech ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "bud",
+            "company_name": "Anheuser-Busch InBev SA/NV",
+            "cik": "1668717",
+            "country": "us"
+        },
+        {
+            "ticker": "ewa",
+            "company_name": "ISHARES MSCI AUSTRALIA ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "fxr",
+            "company_name": "FIRST TRUST INDST/PRODUCERS",
+            "country": "us"
+        },
+        {
+            "ticker": "gmf",
+            "company_name": "SPDR S&P EMERGING ASIA PACIF",
+            "country": "us"
+        },
+        {
+            "ticker": "jks",
+            "company_name": "JinkoSolar Holding Co., Ltd.",
+            "cik": "1481513",
+            "country": "us"
+        },
+        {
+            "ticker": "mpw",
+            "company_name": "MEDICAL PROPERTIES TRUST INC",
+            "cik": "1287865",
+            "country": "us"
+        },
+        {
+            "ticker": "wbd",
+            "company_name": "Warner Bros. Discovery, Inc.",
+            "cik": "1437107",
+            "country": "us"
+        },
+        {
+            "ticker": "dbp",
+            "company_name": "Invesco DB Precious Metals Fund",
+            "cik": "1383057",
+            "country": "us"
+        },
+        {
+            "ticker": "pph",
+            "company_name": "VanEck Vectors Pharmaceutical ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "bep",
+            "company_name": "Brookfield Renewable Partners L.P.",
+            "cik": "1533232",
+            "country": "us"
+        },
+        {
+            "ticker": "pbr",
+            "company_name": "PETROBRAS - PETROLEO BRASILEIRO SA",
+            "cik": "1119639",
+            "country": "us"
+        },
+        {
+            "ticker": "tyg",
+            "company_name": "TORTOISE ENERGY INFRASTRUCTURE CORP",
+            "cik": "1268533",
+            "country": "us"
+        },
+        {
+            "ticker": "usl",
+            "company_name": "United States 12 Month Oil Fund, LP",
+            "cik": "1405528",
+            "country": "us"
+        },
+        {
+            "ticker": "bip",
+            "company_name": "Brookfield Infrastructure Partners L.P.",
+            "cik": "1406234",
+            "country": "us"
+        },
+        {
+            "ticker": "ibb",
+            "company_name": "iShares Nasdaq Biotechnology Index Fund",
+            "country": "us"
+        },
+        {
+            "ticker": "ccd",
+            "company_name": "Calamos Dynamic Convertible & Income Fund",
+            "cik": "1602584",
+            "country": "us"
+        },
+        {
+            "ticker": "iga",
+            "company_name": "Voya Global Advantage & Premium Opportunity Fund",
+            "cik": "1332943",
+            "country": "us"
+        },
+        {
+            "ticker": "vale",
+            "company_name": "Vale S.A.",
+            "cik": "917851",
+            "country": "us"
+        },
+        {
+            "ticker": "atkr",
+            "company_name": "Atkore Inc.",
+            "cik": "1666138",
+            "country": "us"
+        },
+        {
+            "ticker": "chwy",
+            "company_name": "Chewy, Inc.",
+            "cik": "1766502",
+            "country": "us"
+        },
+        {
+            "ticker": "abnb",
+            "company_name": "Airbnb, Inc.",
+            "cik": "1559720",
+            "country": "us"
+        },
+        {
+            "ticker": "clco",
+            "company_name": "COOL Co LTD.",
+            "cik": "1944057",
+            "country": "us"
+        },
+        {
+            "ticker": "cpay",
+            "company_name": "CORPAY, INC.",
+            "cik": "1175454",
+            "country": "us"
+        },
+        {
+            "ticker": "estc",
+            "company_name": "Elastic N.V.",
+            "cik": "1707753",
+            "country": "us"
+        },
+        {
+            "ticker": "ntap",
+            "company_name": "NetApp, Inc.",
+            "cik": "1002047",
+            "country": "us"
+        },
+        {
+            "ticker": "rddt",
+            "company_name": "Reddit, Inc.",
+            "cik": "1713445",
+            "country": "us"
+        },
+        {
+            "ticker": "ntnx",
+            "company_name": "Nutanix, Inc.",
+            "cik": "1618732",
+            "country": "us"
+        },
+        {
+            "ticker": "adsk",
+            "company_name": "Autodesk, Inc.",
+            "cik": "769397",
+            "country": "us"
+        },
+        {
+            "ticker": "ssys",
+            "company_name": "STRATASYS LTD.",
+            "cik": "1517396",
+            "country": "us"
+        },
+        {
+            "ticker": "amlp",
+            "company_name": "ALERIAN MLP ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "qcom",
+            "company_name": "QUALCOMM INC/DE",
+            "cik": "804328",
+            "country": "us"
+        },
+        {
+            "ticker": "scsc",
+            "company_name": "SCANSOURCE, INC.",
+            "cik": "918965",
+            "country": "us"
+        },
+        {
+            "ticker": "bizd",
+            "company_name": "VANECK BDC INCOME",
+            "country": "us"
+        },
+        {
+            "ticker": "dltr",
+            "company_name": "DOLLAR TREE, INC.",
+            "cik": "935703",
+            "country": "us"
+        },
+        {
+            "ticker": "mstr",
+            "company_name": "MICROSTRATEGY Inc",
+            "cik": "1050446",
+            "country": "us"
+        },
+        {
+            "ticker": "ulta",
+            "company_name": "Ulta Beauty, Inc.",
+            "cik": "1403568",
+            "country": "us"
+        },
+        {
+            "ticker": "gotu",
+            "company_name": "Gaotu Techedu Inc.",
+            "cik": "1768259",
+            "country": "us"
+        },
+        {
+            "ticker": "mbuu",
+            "company_name": "MALIBU BOATS, INC.",
+            "cik": "1590976",
+            "country": "us"
+        },
+        {
+            "ticker": "tcom",
+            "company_name": "Trip.com Group Ltd",
+            "cik": "1269238",
+            "country": "us"
+        },
+        {
+            "ticker": "dlth",
+            "company_name": "DULUTH HOLDINGS INC.",
+            "cik": "1649744",
+            "country": "us"
+        },
+        {
+            "ticker": "sgol",
+            "company_name": "abrdn Gold ETF Trust",
+            "cik": "1450923",
+            "country": "us"
+        },
+        {
+            "ticker": "titn",
+            "company_name": "Titan Machinery Inc.",
+            "cik": "1409171",
+            "country": "us"
+        },
+        {
+            "ticker": "agnc",
+            "company_name": "AGNC Investment Corp.",
+            "cik": "1423689",
+            "country": "us"
+        },
+        {
+            "ticker": "bkng",
+            "company_name": "Booking Holdings Inc.",
+            "cik": "1075531",
+            "country": "us"
+        },
+        {
+            "ticker": "coin",
+            "company_name": "Coinbase Global, Inc.",
+            "cik": "1679788",
+            "country": "us"
+        },
+        {
+            "ticker": "gdxj",
+            "company_name": "VANECK JR GOLD MINERS",
+            "country": "us"
+        },
+        {
+            "ticker": "obdc",
+            "company_name": "Blue Owl Capital Corp",
+            "cik": "1655888",
+            "country": "us"
+        },
+        {
+            "ticker": "psec",
+            "company_name": "PROSPECT CAPITAL CORP",
+            "cik": "1287032",
+            "country": "us"
+        },
+        {
+            "ticker": "tigr",
+            "company_name": "UP Fintech Holding Ltd",
+            "cik": "1756699",
+            "country": "us"
+        },
+        {
+            "ticker": "sofi",
+            "company_name": "SoFi Technologies, Inc.",
+            "cik": "1818874",
+            "country": "us"
+        },
+        {
+            "ticker": "vsco",
+            "company_name": "Victoria's Secret & Co.",
+            "cik": "1856437",
+            "country": "us"
+        },
+        {
+            "ticker": "alar",
+            "company_name": "Alarum Technologies Ltd.",
+            "cik": "1725332",
+            "country": "us"
+        },
+        {
+            "ticker": "main",
+            "company_name": "Main Street Capital CORP",
+            "cik": "1396440",
+            "country": "us"
+        },
+        {
+            "ticker": "mnso",
+            "company_name": "MINISO Group Holding Ltd",
+            "cik": "1815846",
+            "country": "us"
+        },
+        {
+            "ticker": "mrvl",
+            "company_name": "Marvell Technology, Inc.",
+            "cik": "1835632",
+            "country": "us"
+        },
+        {
+            "ticker": "pplt",
+            "company_name": "abrdn Platinum ETF Trust",
+            "cik": "1460235",
+            "country": "us"
+        },
+        {
+            "ticker": "altg",
+            "company_name": "ALTA EQUIPMENT GROUP INC.",
+            "cik": "1759824",
+            "country": "us"
+        },
+        {
+            "ticker": "amat",
+            "company_name": "APPLIED MATERIALS INC /DE",
+            "cik": "6951",
+            "country": "us"
+        },
+        {
+            "ticker": "bepc",
+            "company_name": "Brookfield Renewable Corp",
+            "cik": "1791863",
+            "country": "us"
+        },
+        {
+            "ticker": "mags",
+            "company_name": "SENSTAR TECHNOLOGIES LTD.",
+            "cik": "896494",
+            "country": "us"
+        },
+        {
+            "ticker": "pall",
+            "company_name": "abrdn Palladium ETF Trust",
+            "cik": "1459862",
+            "country": "us"
+        },
+        {
+            "ticker": "vktx",
+            "company_name": "Viking Therapeutics, Inc.",
+            "cik": "1607678",
+            "country": "us"
+        },
+        {
+            "ticker": "cost",
+            "company_name": "COSTCO WHOLESALE CORP /NEW",
+            "cik": "909832",
+            "country": "us"
+        },
+        {
+            "ticker": "nbix",
+            "company_name": "NEUROCRINE BIOSCIENCES INC",
+            "cik": "914475",
+            "country": "us"
+        },
+        {
+            "ticker": "pltr",
+            "company_name": "Palantir Technologies Inc.",
+            "cik": "1321655",
+            "country": "us"
+        },
+        {
+            "ticker": "vglt",
+            "company_name": "Vanguard Long-Treasury ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "atat",
+            "company_name": "Atour Lifestyle Holdings Ltd",
+            "cik": "1853717",
+            "country": "us"
+        },
+        {
+            "ticker": "bxmt",
+            "company_name": "BLACKSTONE MORTGAGE TRUST, INC.",
+            "cik": "1061630",
+            "country": "us"
+        },
+        {
+            "ticker": "bxsl",
+            "company_name": "Blackstone Secured Lending Fund",
+            "cik": "1736035",
+            "country": "us"
+        },
+        {
+            "ticker": "bbva",
+            "company_name": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+            "cik": "842180",
+            "country": "us"
+        },
+        {
+            "ticker": "gltr",
+            "company_name": "abrdn Precious Metals Basket ETF Trust",
+            "cik": "1483386",
+            "country": "us"
+        },
+        {
+            "ticker": "asgi",
+            "company_name": "abrdn Global Infrastructure Income Fund",
+            "cik": "1793855",
+            "country": "us"
+        },
+        {
+            "ticker": "impp",
+            "company_name": "Imperial Petroleum Inc./Marshall Islands",
+            "cik": "1876581",
+            "country": "us"
+        },
+        {
+            "ticker": "pukpf",
+            "company_name": "PRUDENTIAL PLC",
+            "cik": "1116578",
+            "country": "us"
+        },
+        {
+            "ticker": "nonof",
+            "company_name": "NOVO NORDISK A S",
+            "cik": "353278",
+            "country": "us"
+        },
+        {
+            "ticker": "trpcf",
+            "company_name": "Trip.com Group Ltd",
+            "cik": "1269238",
+            "country": "us"
+        },
+        {
+            "ticker": "ccoey",
+            "company_name": "Capcom Co., LTD/ADR",
+            "cik": "1551467",
+            "country": "us"
+        },
+        {
+            "ticker": "wopef",
+            "company_name": "WOODSIDE ENERGY GROUP LTD",
+            "cik": "844551",
+            "country": "us"
+        },
+        {
+            "ticker": "bcucf",
+            "company_name": "Brunello Cucinelli S.p.A./ADR",
+            "cik": "1581285",
+            "country": "us"
+        },
+        {
+            "ticker": "bcucy",
+            "company_name": "Brunello Cucinelli S.p.A./ADR",
+            "cik": "1581285",
+            "country": "us"
+        },
+        {
+            "ticker": "imppp",
+            "company_name": "Imperial Petroleum Inc./Marshall Islands",
+            "cik": "1876581",
+            "country": "us"
+        },
+        {
+            "ticker": "tsmwf",
+            "company_name": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+            "cik": "1046179",
+            "country": "us"
+        },
+        {
+            "ticker": "k",
+            "company_name": "KELLANOVA",
+            "cik": "55067",
+            "country": "us"
+        },
+        {
+            "ticker": "kr",
+            "company_name": "KROGER CO",
+            "cik": "56873",
+            "country": "us"
+        },
+        {
+            "ticker": "yy",
+            "company_name": "JOYY Inc.",
+            "cik": "1530238",
+            "country": "us"
+        },
+        {
+            "ticker": "tu",
+            "company_name": "TELUS CORP",
+            "cik": "868675",
+            "country": "us"
+        },
+        {
+            "ticker": "bz",
+            "company_name": "Kanzhun Ltd",
+            "cik": "1842827",
+            "country": "us"
+        },
+        {
+            "ticker": "gm",
+            "company_name": "General Motors Co",
+            "cik": "1467858",
+            "country": "us"
+        },
+        {
+            "ticker": "jg",
+            "company_name": "Aurora Mobile Ltd",
+            "cik": "1737339",
+            "country": "us"
+        },
+        {
+            "ticker": "pg",
+            "company_name": "PROCTER & GAMBLE Co",
+            "cik": "80424",
+            "country": "us"
+        },
+        {
+            "ticker": "wm",
+            "company_name": "WASTE MANAGEMENT INC",
+            "cik": "823768",
+            "country": "us"
+        },
+        {
+            "ticker": "am",
+            "company_name": "Antero Midstream Corp",
+            "cik": "1623925",
+            "country": "us"
+        },
+        {
+            "ticker": "ar",
+            "company_name": "ANTERO RESOURCES Corp",
+            "cik": "1433270",
+            "country": "us"
+        },
+        {
+            "ticker": "el",
+            "company_name": "ESTEE LAUDER COMPANIES INC",
+            "cik": "1001250",
+            "country": "us"
+        },
+        {
+            "ticker": "lw",
+            "company_name": "Lamb Weston Holdings, Inc.",
+            "cik": "1679273",
+            "country": "us"
+        },
+        {
+            "ticker": "vz",
+            "company_name": "VERIZON COMMUNICATIONS INC",
+            "cik": "732712",
+            "country": "us"
+        },
+        {
+            "ticker": "tr",
+            "company_name": "TOOTSIE ROLL INDUSTRIES INC",
+            "cik": "98677",
+            "country": "us"
+        },
+        {
+            "ticker": "gb",
+            "company_name": "Global Blue Group Holding AG",
+            "cik": "1799983",
+            "country": "us"
+        },
+        {
+            "ticker": "zm",
+            "company_name": "Zoom Video Communications, Inc.",
+            "cik": "1585521",
+            "country": "us"
+        },
+        {
+            "ticker": "pm",
+            "company_name": "Philip Morris International Inc.",
+            "cik": "1413329",
+            "country": "us"
+        },
+        {
+            "ticker": "ens",
+            "company_name": "EnerSys",
+            "cik": "1289308",
+            "country": "us"
+        },
+        {
+            "ticker": "gsk",
+            "company_name": "GSK plc",
+            "cik": "1131399",
+            "country": "us"
+        },
+        {
+            "ticker": "eqt",
+            "company_name": "EQT Corp",
+            "cik": "33213",
+            "country": "us"
+        },
+        {
+            "ticker": "fox",
+            "company_name": "Fox Corp",
+            "cik": "1754301",
+            "country": "us"
+        },
+        {
+            "ticker": "gef",
+            "company_name": "GREIF, INC",
+            "cik": "43920",
+            "country": "us"
+        },
+        {
+            "ticker": "wen",
+            "company_name": "Wendy's Co",
+            "cik": "30697",
+            "country": "us"
+        },
+        {
+            "ticker": "exc",
+            "company_name": "EXELON CORP",
+            "cik": "1109357",
+            "country": "us"
+        },
+        {
+            "ticker": "enb",
+            "company_name": "ENBRIDGE INC",
+            "cik": "895728",
+            "country": "us"
+        },
+        {
+            "ticker": "iot",
+            "company_name": "Samsara Inc.",
+            "cik": "1642896",
+            "country": "us"
+        },
+        {
+            "ticker": "vst",
+            "company_name": "Vistra Corp.",
+            "cik": "1692819",
+            "country": "us"
+        },
+        {
+            "ticker": "acn",
+            "company_name": "Accenture plc",
+            "cik": "1467373",
+            "country": "us"
+        },
+        {
+            "ticker": "bhp",
+            "company_name": "BHP Group Ltd",
+            "cik": "811809",
+            "country": "us"
+        },
+        {
+            "ticker": "ccl",
+            "company_name": "CARNIVAL CORP",
+            "cik": "815097",
+            "country": "us"
+        },
+        {
+            "ticker": "fro",
+            "company_name": "Frontline plc",
+            "cik": "913290",
+            "country": "us"
+        },
+        {
+            "ticker": "jwn",
+            "company_name": "NORDSTROM INC",
+            "cik": "72333",
+            "country": "us"
+        },
+        {
+            "ticker": "rio",
+            "company_name": "RIO TINTO PLC",
+            "cik": "863064",
+            "country": "us"
+        },
+        {
+            "ticker": "urg",
+            "company_name": "UR-ENERGY INC",
+            "cik": "1375205",
+            "country": "us"
+        },
+        {
+            "ticker": "alb",
+            "company_name": "ALBEMARLE CORP",
+            "cik": "915913",
+            "country": "us"
+        },
+        {
+            "ticker": "cme",
+            "company_name": "CME GROUP INC.",
+            "cik": "1156375",
+            "country": "us"
+        },
+        {
+            "ticker": "epr",
+            "company_name": "EPR PROPERTIES",
+            "cik": "1045450",
+            "country": "us"
+        },
+        {
+            "ticker": "hal",
+            "company_name": "HALLIBURTON CO",
+            "cik": "45012",
+            "country": "us"
+        },
+        {
+            "ticker": "kkr",
+            "company_name": "KKR & Co. Inc.",
+            "cik": "1404912",
+            "country": "us"
+        },
+        {
+            "ticker": "agi",
+            "company_name": "ALAMOS GOLD INC",
+            "cik": "1178819",
+            "country": "us"
+        },
+        {
+            "ticker": "azn",
+            "company_name": "ASTRAZENECA PLC",
+            "cik": "901832",
+            "country": "us"
+        },
+        {
+            "ticker": "bkr",
+            "company_name": "Baker Hughes Co",
+            "cik": "1701605",
+            "country": "us"
+        },
+        {
+            "ticker": "cvs",
+            "company_name": "CVS HEALTH Corp",
+            "cik": "64803",
+            "country": "us"
+        },
+        {
+            "ticker": "dds",
+            "company_name": "DILLARD'S, INC.",
+            "cik": "28917",
+            "country": "us"
+        },
+        {
+            "ticker": "nxt",
+            "company_name": "Nextracker Inc.",
+            "cik": "1852131",
+            "country": "us"
+        },
+        {
+            "ticker": "bcc",
+            "company_name": "BOISE CASCADE Co",
+            "cik": "1328581",
+            "country": "us"
+        },
+        {
+            "ticker": "len",
+            "company_name": "LENNAR CORP /NEW/",
+            "cik": "920760",
+            "country": "us"
+        },
+        {
+            "ticker": "hqy",
+            "company_name": "HEALTHEQUITY, INC.",
+            "cik": "1428336",
+            "country": "us"
+        },
+        {
+            "ticker": "ppg",
+            "company_name": "PPG INDUSTRIES INC",
+            "cik": "79879",
+            "country": "us"
+        },
+        {
+            "ticker": "vrt",
+            "company_name": "Vertiv Holdings Co",
+            "cik": "1674101",
+            "country": "us"
+        },
+        {
+            "ticker": "afk",
+            "company_name": "VANECK AFRICA INDEX",
+            "country": "us"
+        },
+        {
+            "ticker": "dhi",
+            "company_name": "HORTON D R INC /DE/",
+            "cik": "882184",
+            "country": "us"
+        },
+        {
+            "ticker": "elf",
+            "company_name": "e.l.f. Beauty, Inc.",
+            "cik": "1600033",
+            "country": "us"
+        },
+        {
+            "ticker": "fsk",
+            "company_name": "FS KKR Capital Corp",
+            "cik": "1422183",
+            "country": "us"
+        },
+        {
+            "ticker": "low",
+            "company_name": "LOWES COMPANIES INC",
+            "cik": "60667",
+            "country": "us"
+        },
+        {
+            "ticker": "out",
+            "company_name": "OUTFRONT Media Inc.",
+            "cik": "1579877",
+            "country": "us"
+        },
+        {
+            "ticker": "syf",
+            "company_name": "Synchrony Financial",
+            "cik": "1601712",
+            "country": "us"
+        },
+        {
+            "ticker": "vik",
+            "company_name": "Viking Holdings Ltd",
+            "cik": "1745201",
+            "country": "us"
+        },
+        {
+            "ticker": "xrt",
+            "company_name": "SPDR S&P RETAIL ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "rrc",
+            "company_name": "RANGE RESOURCES CORP",
+            "cik": "315852",
+            "country": "us"
+        },
+        {
+            "ticker": "uri",
+            "company_name": "UNITED RENTALS, INC.",
+            "cik": "1067701",
+            "country": "us"
+        },
+        {
+            "ticker": "bdx",
+            "company_name": "BECTON DICKINSON & CO",
+            "cik": "10795",
+            "country": "us"
+        },
+        {
+            "ticker": "geg",
+            "company_name": "Great Elm Group, Inc.",
+            "cik": "1831096",
+            "country": "us"
+        },
+        {
+            "ticker": "kdp",
+            "company_name": "Keurig Dr Pepper Inc.",
+            "cik": "1418135",
+            "country": "us"
+        },
+        {
+            "ticker": "sli",
+            "company_name": "STANDARD LITHIUM LTD.",
+            "cik": "1537137",
+            "country": "us"
+        },
+        {
+            "ticker": "thc",
+            "company_name": "TENET HEALTHCARE CORP",
+            "cik": "70318",
+            "country": "us"
+        },
+        {
+            "ticker": "txn",
+            "company_name": "TEXAS INSTRUMENTS INC",
+            "cik": "97476",
+            "country": "us"
+        },
+        {
+            "ticker": "bmo",
+            "company_name": "BANK OF MONTREAL /CAN/",
+            "cik": "927971",
+            "country": "us"
+        },
+        {
+            "ticker": "cnp",
+            "company_name": "CENTERPOINT ENERGY INC",
+            "cik": "1130310",
+            "country": "us"
+        },
+        {
+            "ticker": "coo",
+            "company_name": "COOPER COMPANIES, INC.",
+            "cik": "711404",
+            "country": "us"
+        },
+        {
+            "ticker": "cuz",
+            "company_name": "COUSINS PROPERTIES INC",
+            "cik": "25232",
+            "country": "us"
+        },
+        {
+            "ticker": "ewj",
+            "company_name": "ISHARES MSCI JAPAN ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "unh",
+            "company_name": "UNITEDHEALTH GROUP INC",
+            "cik": "731766",
+            "country": "us"
+        },
+        {
+            "ticker": "cim",
+            "company_name": "CHIMERA INVESTMENT CORP",
+            "cik": "1409493",
+            "country": "us"
+        },
+        {
+            "ticker": "ewz",
+            "company_name": "ISHARES MSCI BRAZIL ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "ixn",
+            "company_name": "ISHARES GLOBAL TECH ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "krg",
+            "company_name": "KITE REALTY GROUP TRUST",
+            "cik": "1286043",
+            "country": "us"
+        },
+        {
+            "ticker": "slb",
+            "company_name": "SCHLUMBERGER LIMITED/NV",
+            "cik": "87347",
+            "country": "us"
+        },
+        {
+            "ticker": "bar",
+            "company_name": "GraniteShares Gold Trust",
+            "cik": "1690437",
+            "country": "us"
+        },
+        {
+            "ticker": "gct",
+            "company_name": "GigaCloud Technology Inc",
+            "cik": "1857816",
+            "country": "us"
+        },
+        {
+            "ticker": "wmb",
+            "company_name": "WILLIAMS COMPANIES, INC.",
+            "cik": "107263",
+            "country": "us"
+        },
+        {
+            "ticker": "adm",
+            "company_name": "Archer-Daniels-Midland Co",
+            "cik": "7084",
+            "country": "us"
+        },
+        {
+            "ticker": "bac",
+            "company_name": "BANK OF AMERICA CORP /DE/",
+            "cik": "70858",
+            "country": "us"
+        },
+        {
+            "ticker": "bbw",
+            "company_name": "BUILD-A-BEAR WORKSHOP INC",
+            "cik": "1113809",
+            "country": "us"
+        },
+        {
+            "ticker": "ceg",
+            "company_name": "Constellation Energy Corp",
+            "cik": "1868275",
+            "country": "us"
+        },
+        {
+            "ticker": "ezu",
+            "company_name": "ISHARES MSCI EUROZONE ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "ups",
+            "company_name": "UNITED PARCEL SERVICE INC",
+            "cik": "1090727",
+            "country": "us"
+        },
+        {
+            "ticker": "xhb",
+            "company_name": "SPDR S&P HOMEBUILDERS ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "aci",
+            "company_name": "Albertsons Companies, Inc.",
+            "cik": "1646972",
+            "country": "us"
+        },
+        {
+            "ticker": "cfr",
+            "company_name": "CULLEN/FROST BANKERS, INC.",
+            "cik": "39263",
+            "country": "us"
+        },
+        {
+            "ticker": "ecc",
+            "company_name": "Eagle Point Credit Co Inc.",
+            "cik": "1604174",
+            "country": "us"
+        },
+        {
+            "ticker": "sil",
+            "company_name": "GLOBAL X SILVER MINERS ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "utg",
+            "company_name": "REAVES UTILITY INCOME FUND",
+            "cik": "1263994",
+            "country": "us"
+        },
+        {
+            "ticker": "dks",
+            "company_name": "DICK'S SPORTING GOODS, INC.",
+            "cik": "1089063",
+            "country": "us"
+        },
+        {
+            "ticker": "iyh",
+            "company_name": "ISHARES U.S. HEALTHCARE ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "pwz",
+            "company_name": "INVESCO CALIFORNIA AMT-FREE",
+            "country": "us"
+        },
+        {
+            "ticker": "rcl",
+            "company_name": "ROYAL CARIBBEAN CRUISES LTD",
+            "cik": "884887",
+            "country": "us"
+        },
+        {
+            "ticker": "cmf",
+            "company_name": "ISHARES CALIFORNIA MUNI BOND",
+            "country": "us"
+        },
+        {
+            "ticker": "cni",
+            "company_name": "CANADIAN NATIONAL RAILWAY CO",
+            "cik": "16868",
+            "country": "us"
+        },
+        {
+            "ticker": "igm",
+            "company_name": "ISHARES EXPANDED TECH SECTOR",
+            "country": "us"
+        },
+        {
+            "ticker": "itb",
+            "company_name": "ISHARES U.S. HOME CONSTRUCTI",
+            "country": "us"
+        },
+        {
+            "ticker": "jnk",
+            "company_name": "SPDR BBG BARC HIGH YIELD BND",
+            "country": "us"
+        },
+        {
+            "ticker": "mgk",
+            "company_name": "VANGUARD MEGA CAP GROWTH ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "pkb",
+            "company_name": "INVESCO DYNAMIC BUILDING & C",
+            "country": "us"
+        },
+        {
+            "ticker": "swk",
+            "company_name": "STANLEY BLACK & DECKER, INC.",
+            "cik": "93556",
+            "country": "us"
+        },
+        {
+            "ticker": "vcr",
+            "company_name": "VANGUARD CONSUMER DISCRE ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "adp",
+            "company_name": "AUTOMATIC DATA PROCESSING INC",
+            "cik": "8670",
+            "country": "us"
+        },
+        {
+            "ticker": "aeo",
+            "company_name": "AMERICAN EAGLE OUTFITTERS INC",
+            "cik": "919012",
+            "country": "us"
+        },
+        {
+            "ticker": "nly",
+            "company_name": "ANNALY CAPITAL MANAGEMENT INC",
+            "cik": "1043219",
+            "country": "us"
+        },
+        {
+            "ticker": "bme",
+            "company_name": "BlackRock Health Sciences Trust",
+            "cik": "1314966",
+            "country": "us"
+        },
+        {
+            "ticker": "frt",
+            "company_name": "FEDERAL REALTY INVESTMENT TRUST",
+            "cik": "34903",
+            "country": "us"
+        },
+        {
+            "ticker": "bam",
+            "company_name": "Brookfield Asset Management Ltd.",
+            "cik": "1937926",
+            "country": "us"
+        },
+        {
+            "ticker": "bno",
+            "company_name": "United States Brent Oil Fund, LP",
+            "cik": "1472494",
+            "country": "us"
+        },
+        {
+            "ticker": "srv",
+            "company_name": "NXG Cushing Midstream Energy Fund",
+            "cik": "1400897",
+            "country": "us"
+        },
+        {
+            "ticker": "jci",
+            "company_name": "Johnson Controls International plc",
+            "cik": "833444",
+            "country": "us"
+        },
+        {
+            "ticker": "bst",
+            "company_name": "BlackRock Science & Technology Trust",
+            "cik": "1616678",
+            "country": "us"
+        },
+        {
+            "ticker": "are",
+            "company_name": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
+            "cik": "1035443",
+            "country": "us"
+        },
+        {
+            "ticker": "pdo",
+            "company_name": "PIMCO Dynamic Income Opportunities Fund",
+            "cik": "1798618",
+            "country": "us"
+        },
+        {
+            "ticker": "ari",
+            "company_name": "Apollo Commercial Real Estate Finance, Inc.",
+            "cik": "1467760",
+            "country": "us"
+        },
+        {
+            "ticker": "jpc",
+            "company_name": "Nuveen Preferred & Income Opportunities Fund",
+            "cik": "1216583",
+            "country": "us"
+        },
+        {
+            "ticker": "rqi",
+            "company_name": "COHEN & STEERS QUALITY INCOME REALTY FUND INC",
+            "cik": "1157842",
+            "country": "us"
+        },
+        {
+            "ticker": "cii",
+            "company_name": "BLACKROCK ENHANCED CAPITAL & INCOME FUND, INC.",
+            "cik": "1278895",
+            "country": "us"
+        },
+        {
+            "ticker": "kyn",
+            "company_name": "Kayne Anderson Energy Infrastructure Fund, Inc.",
+            "cik": "1293613",
+            "country": "us"
+        },
+        {
+            "ticker": "imab",
+            "company_name": "I-Mab",
+            "cik": "1778016",
+            "country": "us"
+        },
+        {
+            "ticker": "alvo",
+            "company_name": "Alvotech",
+            "cik": "1898416",
+            "country": "us"
+        },
+        {
+            "ticker": "foxa",
+            "company_name": "Fox Corp",
+            "cik": "1754301",
+            "country": "us"
+        },
+        {
+            "ticker": "klac",
+            "company_name": "KLA CORP",
+            "cik": "319201",
+            "country": "us"
+        },
+        {
+            "ticker": "msci",
+            "company_name": "MSCI Inc.",
+            "cik": "1408198",
+            "country": "us"
+        },
+        {
+            "ticker": "oklo",
+            "company_name": "Oklo Inc.",
+            "cik": "1849056",
+            "country": "us"
+        },
+        {
+            "ticker": "opra",
+            "company_name": "Opera Ltd",
+            "cik": "1737450",
+            "country": "us"
+        },
+        {
+            "ticker": "shel",
+            "company_name": "Shell plc",
+            "cik": "1306965",
+            "country": "us"
+        },
+        {
+            "ticker": "adbe",
+            "company_name": "ADOBE INC.",
+            "cik": "796343",
+            "country": "us"
+        },
+        {
+            "ticker": "allt",
+            "company_name": "Allot Ltd.",
+            "cik": "1365767",
+            "country": "us"
+        },
+        {
+            "ticker": "domo",
+            "company_name": "DOMO, INC.",
+            "cik": "1505952",
+            "country": "us"
+        },
+        {
+            "ticker": "bntx",
+            "company_name": "BioNTech SE",
+            "cik": "1776985",
+            "country": "us"
+        },
+        {
+            "ticker": "bzun",
+            "company_name": "Baozun Inc.",
+            "cik": "1625414",
+            "country": "us"
+        },
+        {
+            "ticker": "ncno",
+            "company_name": "nCino, Inc.",
+            "cik": "1902733",
+            "country": "us"
+        },
+        {
+            "ticker": "nvax",
+            "company_name": "NOVAVAX INC",
+            "cik": "1000694",
+            "country": "us"
+        },
+        {
+            "ticker": "orcl",
+            "company_name": "ORACLE CORP",
+            "cik": "1341439",
+            "country": "us"
+        },
+        {
+            "ticker": "rblx",
+            "company_name": "Roblox Corp",
+            "cik": "1315098",
+            "country": "us"
+        },
+        {
+            "ticker": "ndaq",
+            "company_name": "NASDAQ, INC.",
+            "cik": "1120193",
+            "country": "us"
+        },
+        {
+            "ticker": "oust",
+            "company_name": "Ouster, Inc.",
+            "cik": "1816581",
+            "country": "us"
+        },
+        {
+            "ticker": "shop",
+            "company_name": "SHOPIFY INC.",
+            "cik": "1594805",
+            "country": "us"
+        },
+        {
+            "ticker": "amba",
+            "company_name": "AMBARELLA INC",
+            "cik": "1280263",
+            "country": "us"
+        },
+        {
+            "ticker": "bgne",
+            "company_name": "BeiGene, Ltd.",
+            "cik": "1651308",
+            "country": "us"
+        },
+        {
+            "ticker": "ingr",
+            "company_name": "Ingredion Inc",
+            "cik": "1046257",
+            "country": "us"
+        },
+        {
+            "ticker": "meso",
+            "company_name": "MESOBLAST LTD",
+            "cik": "1345099",
+            "country": "us"
+        },
+        {
+            "ticker": "ftnt",
+            "company_name": "Fortinet, Inc.",
+            "cik": "1262039",
+            "country": "us"
+        },
+        {
+            "ticker": "incr",
+            "company_name": "Intercure Ltd.",
+            "cik": "1857030",
+            "country": "us"
+        },
+        {
+            "ticker": "wald",
+            "company_name": "Waldencast plc",
+            "cik": "1840199",
+            "country": "us"
+        },
+        {
+            "ticker": "ctrn",
+            "company_name": "Citi Trends Inc",
+            "cik": "1318484",
+            "country": "us"
+        },
+        {
+            "ticker": "cava",
+            "company_name": "CAVA GROUP, INC.",
+            "cik": "1639438",
+            "country": "us"
+        },
+        {
+            "ticker": "elmd",
+            "company_name": "Electromed, Inc.",
+            "cik": "1488917",
+            "country": "us"
+        },
+        {
+            "ticker": "uuuu",
+            "company_name": "ENERGY FUELS INC",
+            "cik": "1385849",
+            "country": "us"
+        },
+        {
+            "ticker": "vnet",
+            "company_name": "VNET Group, Inc.",
+            "cik": "1508475",
+            "country": "us"
+        },
+        {
+            "ticker": "hsbc",
+            "company_name": "HSBC HOLDINGS PLC",
+            "cik": "1089113",
+            "country": "us"
+        },
+        {
+            "ticker": "lcid",
+            "company_name": "Lucid Group, Inc.",
+            "cik": "1811210",
+            "country": "us"
+        },
+        {
+            "ticker": "noah",
+            "company_name": "Noah Holdings Ltd",
+            "cik": "1499543",
+            "country": "us"
+        },
+        {
+            "ticker": "pstg",
+            "company_name": "Pure Storage, Inc.",
+            "cik": "1474432",
+            "country": "us"
+        },
+        {
+            "ticker": "urgn",
+            "company_name": "UroGen Pharma Ltd.",
+            "cik": "1668243",
+            "country": "us"
+        },
+        {
+            "ticker": "vnom",
+            "company_name": "Viper Energy, Inc.",
+            "cik": "1602065",
+            "country": "us"
+        },
+        {
+            "ticker": "arbk",
+            "company_name": "Argo Blockchain Plc",
+            "cik": "1841675",
+            "country": "us"
+        },
+        {
+            "ticker": "expe",
+            "company_name": "Expedia Group, Inc.",
+            "cik": "1324424",
+            "country": "us"
+        },
+        {
+            "ticker": "mrcc",
+            "company_name": "MONROE CAPITAL Corp",
+            "cik": "1512931",
+            "country": "us"
+        },
+        {
+            "ticker": "pebo",
+            "company_name": "PEOPLES BANCORP INC",
+            "cik": "318300",
+            "country": "us"
+        },
+        {
+            "ticker": "achr",
+            "company_name": "Archer Aviation Inc.",
+            "cik": "1824502",
+            "country": "us"
+        },
+        {
+            "ticker": "jblu",
+            "company_name": "JETBLUE AIRWAYS CORP",
+            "cik": "1158463",
+            "country": "us"
+        },
+        {
+            "ticker": "rklb",
+            "company_name": "Rocket Lab USA, Inc.",
+            "cik": "1819994",
+            "country": "us"
+        },
+        {
+            "ticker": "sach",
+            "company_name": "Sachem Capital Corp.",
+            "cik": "1682220",
+            "country": "us"
+        },
+        {
+            "ticker": "vici",
+            "company_name": "VICI PROPERTIES INC.",
+            "cik": "1705696",
+            "country": "us"
+        },
+        {
+            "ticker": "cwen",
+            "company_name": "Clearway Energy, Inc.",
+            "cik": "1567683",
+            "country": "us"
+        },
+        {
+            "ticker": "enlc",
+            "company_name": "EnLink Midstream, LLC",
+            "cik": "1592000",
+            "country": "us"
+        },
+        {
+            "ticker": "gild",
+            "company_name": "GILEAD SCIENCES, INC.",
+            "cik": "882095",
+            "country": "us"
+        },
+        {
+            "ticker": "bbio",
+            "company_name": "BridgeBio Pharma, Inc.",
+            "cik": "1743881",
+            "country": "us"
+        },
+        {
+            "ticker": "gogl",
+            "company_name": "Golden Ocean Group Ltd",
+            "cik": "1029145",
+            "country": "us"
+        },
+        {
+            "ticker": "isrg",
+            "company_name": "INTUITIVE SURGICAL INC",
+            "cik": "1035267",
+            "country": "us"
+        },
+        {
+            "ticker": "skyh",
+            "company_name": "Sky Harbour Group Corp",
+            "cik": "1823587",
+            "country": "us"
+        },
+        {
+            "ticker": "bbwi",
+            "company_name": "Bath & Body Works, Inc.",
+            "cik": "701985",
+            "country": "us"
+        },
+        {
+            "ticker": "cimn",
+            "company_name": "CHIMERA INVESTMENT CORP",
+            "cik": "1409493",
+            "country": "us"
+        },
+        {
+            "ticker": "flin",
+            "company_name": "FRANKLIN FTSE INDIA ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "gbdc",
+            "company_name": "GOLUB CAPITAL BDC, Inc.",
+            "cik": "1476765",
+            "country": "us"
+        },
+        {
+            "ticker": "imcr",
+            "company_name": "Immunocore Holdings plc",
+            "cik": "1671927",
+            "country": "us"
+        },
+        {
+            "ticker": "sptl",
+            "company_name": "SPDR PORT LNG TRM TRSRY",
+            "country": "us"
+        },
+        {
+            "ticker": "fang",
+            "company_name": "Diamondback Energy, Inc.",
+            "cik": "1539838",
+            "country": "us"
+        },
+        {
+            "ticker": "fidu",
+            "company_name": "FIDELITY INDUSTRIALS ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "foxf",
+            "company_name": "FOX FACTORY HOLDING CORP",
+            "cik": "1424929",
+            "country": "us"
+        },
+        {
+            "ticker": "hain",
+            "company_name": "HAIN CELESTIAL GROUP INC",
+            "cik": "910406",
+            "country": "us"
+        },
+        {
+            "ticker": "homz",
+            "company_name": "HOYA CAPITAL HOUSING ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "lamr",
+            "company_name": "LAMAR ADVERTISING CO/NEW",
+            "cik": "1090425",
+            "country": "us"
+        },
+        {
+            "ticker": "lumn",
+            "company_name": "Lumen Technologies, Inc.",
+            "cik": "18926",
+            "country": "us"
+        },
+        {
+            "ticker": "lunr",
+            "company_name": "Intuitive Machines, Inc.",
+            "cik": "1844452",
+            "country": "us"
+        },
+        {
+            "ticker": "prct",
+            "company_name": "PROCEPT BioRobotics Corp",
+            "cik": "1588978",
+            "country": "us"
+        },
+        {
+            "ticker": "rptx",
+            "company_name": "Repare Therapeutics Inc.",
+            "cik": "1808158",
+            "country": "us"
+        },
+        {
+            "ticker": "alex",
+            "company_name": "Alexander & Baldwin, Inc.",
+            "cik": "1545654",
+            "country": "us"
+        },
+        {
+            "ticker": "ibit",
+            "company_name": "iShares Bitcoin Trust ETF",
+            "cik": "1980994",
+            "country": "us"
+        },
+        {
+            "ticker": "oxlc",
+            "company_name": "Oxford Lane Capital Corp.",
+            "cik": "1495222",
+            "country": "us"
+        },
+        {
+            "ticker": "pahc",
+            "company_name": "PHIBRO ANIMAL HEALTH CORP",
+            "cik": "1069899",
+            "country": "us"
+        },
+        {
+            "ticker": "pdco",
+            "company_name": "PATTERSON COMPANIES, INC.",
+            "cik": "891024",
+            "country": "us"
+        },
+        {
+            "ticker": "pton",
+            "company_name": "PELOTON INTERACTIVE, INC.",
+            "cik": "1639825",
+            "country": "us"
+        },
+        {
+            "ticker": "viot",
+            "company_name": "Viomi Technology Co., Ltd",
+            "cik": "1742770",
+            "country": "us"
+        },
+        {
+            "ticker": "aldx",
+            "company_name": "Aldeyra Therapeutics, Inc.",
+            "cik": "1341235",
+            "country": "us"
+        },
+        {
+            "ticker": "dxlg",
+            "company_name": "DESTINATION XL GROUP, INC.",
+            "cik": "813298",
+            "country": "us"
+        },
+        {
+            "ticker": "vygr",
+            "company_name": "Voyager Therapeutics, Inc.",
+            "cik": "1640266",
+            "country": "us"
+        },
+        {
+            "ticker": "allo",
+            "company_name": "Allogene Therapeutics, Inc.",
+            "cik": "1737287",
+            "country": "us"
+        },
+        {
+            "ticker": "flau",
+            "company_name": "FRANKLIN FTSE AUSTRALIA ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "prks",
+            "company_name": "United Parks & Resorts Inc.",
+            "cik": "1564902",
+            "country": "us"
+        },
+        {
+            "ticker": "swbi",
+            "company_name": "SMITH & WESSON BRANDS, INC.",
+            "cik": "1092796",
+            "country": "us"
+        },
+        {
+            "ticker": "tcpc",
+            "company_name": "BlackRock TCP Capital Corp.",
+            "cik": "1370755",
+            "country": "us"
+        },
+        {
+            "ticker": "hees",
+            "company_name": "H&E Equipment Services, Inc.",
+            "cik": "1339605",
+            "country": "us"
+        },
+        {
+            "ticker": "ihak",
+            "company_name": "ISHARES CYBERSECURITY & TECH",
+            "country": "us"
+        },
+        {
+            "ticker": "nail",
+            "company_name": "DRX DLY HOMEBUILDERS BULL 3X",
+            "country": "us"
+        },
+        {
+            "ticker": "sedg",
+            "company_name": "SOLAREDGE TECHNOLOGIES, INC.",
+            "cik": "1419612",
+            "country": "us"
+        },
+        {
+            "ticker": "xsvm",
+            "company_name": "INVESCO S&P SMALLCAP VALUE W",
+            "country": "us"
+        },
+        {
+            "ticker": "alny",
+            "company_name": "ALNYLAM PHARMACEUTICALS, INC.",
+            "cik": "1178670",
+            "country": "us"
+        },
+        {
+            "ticker": "ulcc",
+            "company_name": "Frontier Group Holdings, Inc.",
+            "cik": "1670076",
+            "country": "us"
+        },
+        {
+            "ticker": "bipc",
+            "company_name": "Brookfield Infrastructure Corp",
+            "cik": "1788348",
+            "country": "us"
+        },
+        {
+            "ticker": "tixt",
+            "company_name": "TELUS International (Cda) Inc.",
+            "cik": "1825155",
+            "country": "us"
+        },
+        {
+            "ticker": "mcft",
+            "company_name": "MasterCraft Boat Holdings, Inc.",
+            "cik": "1638290",
+            "country": "us"
+        },
+        {
+            "ticker": "atsg",
+            "company_name": "Air Transport Services Group, Inc.",
+            "cik": "894081",
+            "country": "us"
+        },
+        {
+            "ticker": "teva",
+            "company_name": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
+            "cik": "818686",
+            "country": "us"
+        },
+        {
+            "ticker": "sncy",
+            "company_name": "Sun Country Airlines Holdings, Inc.",
+            "cik": "1743907",
+            "country": "us"
+        },
+        {
+            "ticker": "bcsf",
+            "company_name": "Bain Capital Specialty Finance, Inc.",
+            "cik": "1655050",
+            "country": "us"
+        },
+        {
+            "ticker": "qyld",
+            "company_name": "Global X NASDAQ-100 Covered Call ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "olli",
+            "company_name": "Ollie's Bargain Outlet Holdings, Inc.",
+            "cik": "1639300",
+            "country": "us"
+        },
+        {
+            "ticker": "shph",
+            "company_name": "Shuttle Pharmaceuticals Holdings, Inc.",
+            "cik": "1757499",
+            "country": "us"
+        },
+        {
+            "ticker": "eprt",
+            "company_name": "ESSENTIAL PROPERTIES REALTY TRUST, INC.",
+            "cik": "1728951",
+            "country": "us"
+        },
+        {
+            "ticker": "fcal",
+            "company_name": "First Trust California Municipal High income ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "kweb",
+            "company_name": "KraneShares Trust KraneShares CSI China Internet ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "ucbjy",
+            "company_name": "UCB S.A.",
+            "cik": "1290640",
+            "country": "us"
+        },
+        {
+            "ticker": "evotf",
+            "company_name": "Evotec SE",
+            "cik": "1412558",
+            "country": "us"
+        },
+        {
+            "ticker": "baznf",
+            "company_name": "Baozun Inc.",
+            "cik": "1625414",
+            "country": "us"
+        },
+        {
+            "ticker": "meobf",
+            "company_name": "MESOBLAST LTD",
+            "cik": "1345099",
+            "country": "us"
+        },
+        {
+            "ticker": "atlky",
+            "company_name": "ATLAS COPCO AB",
+            "cik": "748954",
+            "country": "us"
+        },
+        {
+            "ticker": "waldw",
+            "company_name": "Waldencast plc",
+            "cik": "1840199",
+            "country": "us"
+        },
+        {
+            "ticker": "asmlf",
+            "company_name": "ASML HOLDING NV",
+            "cik": "937966",
+            "country": "us"
+        },
+        {
+            "ticker": "thlef",
+            "company_name": "Thales S.A./ADR",
+            "cik": "1722401",
+            "country": "us"
+        },
+        {
+            "ticker": "paraa",
+            "company_name": "Paramount Global",
+            "cik": "813828",
+            "country": "us"
+        },
+        {
+            "ticker": "sgioy",
+            "company_name": "SHIONOGI & CO LTD",
+            "cik": "1281721",
+            "country": "us"
+        },
+        {
+            "ticker": "arbkf",
+            "company_name": "Argo Blockchain Plc",
+            "cik": "1841675",
+            "country": "us"
+        },
+        {
+            "ticker": "arbkl",
+            "company_name": "Argo Blockchain Plc",
+            "cik": "1841675",
+            "country": "us"
+        },
+        {
+            "ticker": "rbmcf",
+            "company_name": "ROYAL BANK OF CANADA",
+            "cik": "1000275",
+            "country": "us"
+        },
+        {
+            "ticker": "rybpf",
+            "company_name": "ROYAL BANK OF CANADA",
+            "cik": "1000275",
+            "country": "us"
+        },
+        {
+            "ticker": "rylbf",
+            "company_name": "ROYAL BANK OF CANADA",
+            "cik": "1000275",
+            "country": "us"
+        },
+        {
+            "ticker": "tctzf",
+            "company_name": "Tencent Holdings Ltd",
+            "cik": "1293451",
+            "country": "us"
+        },
+        {
+            "ticker": "frcoy",
+            "company_name": "Fast Retailing Co Ltd",
+            "cik": "1446595",
+            "country": "us"
+        },
+        {
+            "ticker": "geggl",
+            "company_name": "Great Elm Group, Inc.",
+            "cik": "1831096",
+            "country": "us"
+        },
+        {
+            "ticker": "pdrdf",
+            "company_name": "PERNOD RICARD S A /FI",
+            "cik": "899108",
+            "country": "us"
+        },
+        {
+            "ticker": "prndy",
+            "company_name": "PERNOD RICARD S A /FI",
+            "cik": "899108",
+            "country": "us"
+        },
+        {
+            "ticker": "ciljf",
+            "company_name": "CHINA LIFE INSURANCE CO LTD",
+            "cik": "1268896",
+            "country": "us"
+        },
+        {
+            "ticker": "hesay",
+            "company_name": "HERMES INTERNATIONAL S.C.A.",
+            "cik": "1436949",
+            "country": "us"
+        },
+        {
+            "ticker": "clvlf",
+            "company_name": "Clinuvel Pharmaceuticals Ltd",
+            "cik": "1290877",
+            "country": "us"
+        },
+        {
+            "ticker": "clvly",
+            "company_name": "Clinuvel Pharmaceuticals Ltd",
+            "cik": "1290877",
+            "country": "us"
+        },
+        {
+            "ticker": "fujhy",
+            "company_name": "FUJI HEAVY INDUSTRIES LTD /FI",
+            "cik": "800364",
+            "country": "us"
+        },
+        {
+            "ticker": "lvmuy",
+            "company_name": "LVMH MOET HENNESSY LOUIS VUITTON",
+            "cik": "824046",
+            "country": "us"
+        },
+        {
+            "ticker": "chgcf",
+            "company_name": "Chugai Pharmaceutical Co., Ltd. / ADR",
+            "cik": "1453934",
+            "country": "us"
+        },
+        {
+            "ticker": "gelyf",
+            "company_name": "Geely Automobile Holdings Limited/ADR",
+            "cik": "1474968",
+            "country": "us"
+        },
+        {
+            "ticker": "w",
+            "company_name": "Wayfair Inc.",
+            "cik": "1616707",
+            "country": "us"
+        },
+        {
+            "ticker": "c",
+            "company_name": "CITIGROUP INC",
+            "cik": "831001",
+            "country": "us"
+        },
+        {
+            "ticker": "f",
+            "company_name": "FORD MOTOR CO",
+            "cik": "37996",
+            "country": "us"
+        },
+        {
+            "ticker": "a",
+            "company_name": "AGILENT TECHNOLOGIES, INC.",
+            "cik": "1090872",
+            "country": "us"
+        },
+        {
+            "ticker": "rh",
+            "company_name": "RH",
+            "cik": "1528849",
+            "country": "us"
+        },
+        {
+            "ticker": "bp",
+            "company_name": "BP PLC",
+            "cik": "313807",
+            "country": "us"
+        },
+        {
+            "ticker": "se",
+            "company_name": "Sea Ltd",
+            "cik": "1703399",
+            "country": "us"
+        },
+        {
+            "ticker": "qh",
+            "company_name": "QUHUO Ltd",
+            "cik": "1781193",
+            "country": "us"
+        },
+        {
+            "ticker": "yi",
+            "company_name": "111, Inc.",
+            "cik": "1738906",
+            "country": "us"
+        },
+        {
+            "ticker": "ai",
+            "company_name": "C3.ai, Inc.",
+            "cik": "1577526",
+            "country": "us"
+        },
+        {
+            "ticker": "cc",
+            "company_name": "Chemours Co",
+            "cik": "1627223",
+            "country": "us"
+        },
+        {
+            "ticker": "ci",
+            "company_name": "Cigna Group",
+            "cik": "1739940",
+            "country": "us"
+        },
+        {
+            "ticker": "iq",
+            "company_name": "iQIYI, Inc.",
+            "cik": "1722608",
+            "country": "us"
+        },
+        {
+            "ticker": "mc",
+            "company_name": "Moelis & Co",
+            "cik": "1596967",
+            "country": "us"
+        },
+        {
+            "ticker": "tc",
+            "company_name": "TuanChe Ltd",
+            "cik": "1743340",
+            "country": "us"
+        },
+        {
+            "ticker": "sm",
+            "company_name": "SM Energy Co",
+            "cik": "893538",
+            "country": "us"
+        },
+        {
+            "ticker": "ul",
+            "company_name": "UNILEVER PLC",
+            "cik": "217410",
+            "country": "us"
+        },
+        {
+            "ticker": "pd",
+            "company_name": "PagerDuty, Inc.",
+            "cik": "1568100",
+            "country": "us"
+        },
+        {
+            "ticker": "wy",
+            "company_name": "WEYERHAEUSER CO",
+            "cik": "106535",
+            "country": "us"
+        },
+        {
+            "ticker": "hd",
+            "company_name": "HOME DEPOT, INC.",
+            "cik": "354950",
+            "country": "us"
+        },
+        {
+            "ticker": "dx",
+            "company_name": "DYNEX CAPITAL INC",
+            "cik": "826675",
+            "country": "us"
+        },
+        {
+            "ticker": "hy",
+            "company_name": "HYSTER-YALE, INC.",
+            "cik": "1173514",
+            "country": "us"
+        },
+        {
+            "ticker": "lb",
+            "company_name": "LandBridge Co LLC",
+            "cik": "1995807",
+            "country": "us"
+        },
+        {
+            "ticker": "lu",
+            "company_name": "Lufax Holding Ltd",
+            "cik": "1816007",
+            "country": "us"
+        },
+        {
+            "ticker": "su",
+            "company_name": "SUNCOR ENERGY INC",
+            "cik": "311337",
+            "country": "us"
+        },
+        {
+            "ticker": "cg",
+            "company_name": "Carlyle Group Inc.",
+            "cik": "1527166",
+            "country": "us"
+        },
+        {
+            "ticker": "eh",
+            "company_name": "EHang Holdings Ltd",
+            "cik": "1759783",
+            "country": "us"
+        },
+        {
+            "ticker": "ge",
+            "company_name": "GENERAL ELECTRIC CO",
+            "cik": "40545",
+            "country": "us"
+        },
+        {
+            "ticker": "ir",
+            "company_name": "Ingersoll Rand Inc.",
+            "cik": "1699150",
+            "country": "us"
+        },
+        {
+            "ticker": "bn",
+            "company_name": "BROOKFIELD Corp /ON/",
+            "cik": "1001085",
+            "country": "us"
+        },
+        {
+            "ticker": "cl",
+            "company_name": "COLGATE PALMOLIVE CO",
+            "cik": "21665",
+            "country": "us"
+        },
+        {
+            "ticker": "dy",
+            "company_name": "DYCOM INDUSTRIES INC",
+            "cik": "67215",
+            "country": "us"
+        },
+        {
+            "ticker": "ph",
+            "company_name": "PARKER HANNIFIN CORP",
+            "cik": "76334",
+            "country": "us"
+        },
+        {
+            "ticker": "sd",
+            "company_name": "SANDRIDGE ENERGY INC",
+            "cik": "1349436",
+            "country": "us"
+        },
+        {
+            "ticker": "au",
+            "company_name": "AngloGold Ashanti PLC",
+            "cik": "1973832",
+            "country": "us"
+        },
+        {
+            "ticker": "gd",
+            "company_name": "GENERAL DYNAMICS CORP",
+            "cik": "40533",
+            "country": "us"
+        },
+        {
+            "ticker": "ha",
+            "company_name": "HAWAIIAN HOLDINGS INC",
+            "cik": "1172222",
+            "country": "us"
+        },
+        {
+            "ticker": "on",
+            "company_name": "ON SEMICONDUCTOR CORP",
+            "cik": "1097864",
+            "country": "us"
+        },
+        {
+            "ticker": "td",
+            "company_name": "TORONTO DOMINION BANK",
+            "cik": "947263",
+            "country": "us"
+        },
+        {
+            "ticker": "gs",
+            "company_name": "GOLDMAN SACHS GROUP INC",
+            "cik": "886982",
+            "country": "us"
+        },
+        {
+            "ticker": "hp",
+            "company_name": "Helmerich & Payne, Inc.",
+            "cik": "46765",
+            "country": "us"
+        },
+        {
+            "ticker": "lx",
+            "company_name": "LexinFintech Holdings Ltd.",
+            "cik": "1708259",
+            "country": "us"
+        },
+        {
+            "ticker": "sy",
+            "company_name": "So-Young International Inc.",
+            "cik": "1758530",
+            "country": "us"
+        },
+        {
+            "ticker": "nx",
+            "company_name": "Quanex Building Products CORP",
+            "cik": "1423221",
+            "country": "us"
+        },
+        {
+            "ticker": "ab",
+            "company_name": "ALLIANCEBERNSTEIN HOLDING L.P.",
+            "cik": "825313",
+            "country": "us"
+        },
+        {
+            "ticker": "db",
+            "company_name": "DEUTSCHE BANK AKTIENGESELLSCHAFT",
+            "cik": "1159508",
+            "country": "us"
+        },
+        {
+            "ticker": "fr",
+            "company_name": "FIRST INDUSTRIAL REALTY TRUST INC",
+            "cik": "921825",
+            "country": "us"
+        },
+        {
+            "ticker": "cp",
+            "company_name": "CANADIAN PACIFIC KANSAS CITY LTD/CN",
+            "cik": "16875",
+            "country": "us"
+        },
+        {
+            "ticker": "sre",
+            "company_name": "SEMPRA",
+            "cik": "1032208",
+            "country": "us"
+        },
+        {
+            "ticker": "bce",
+            "company_name": "BCE INC",
+            "cik": "718940",
+            "country": "us"
+        },
+        {
+            "ticker": "dan",
+            "company_name": "DANA INC",
+            "cik": "26780",
+            "country": "us"
+        },
+        {
+            "ticker": "gms",
+            "company_name": "GMS Inc.",
+            "cik": "1600438",
+            "country": "us"
+        },
+        {
+            "ticker": "iac",
+            "company_name": "IAC Inc.",
+            "cik": "1800227",
+            "country": "us"
+        },
+        {
+            "ticker": "ppl",
+            "company_name": "PPL Corp",
+            "cik": "922224",
+            "country": "us"
+        },
+        {
+            "ticker": "rtx",
+            "company_name": "RTX Corp",
+            "cik": "101829",
+            "country": "us"
+        },
+        {
+            "ticker": "afl",
+            "company_name": "AFLAC INC",
+            "cik": "4977",
+            "country": "us"
+        },
+        {
+            "ticker": "dss",
+            "company_name": "DSS, INC.",
+            "cik": "771999",
+            "country": "us"
+        },
+        {
+            "ticker": "evo",
+            "company_name": "Evotec SE",
+            "cik": "1412558",
+            "country": "us"
+        },
+        {
+            "ticker": "pcg",
+            "company_name": "PG&E Corp",
+            "cik": "1004980",
+            "country": "us"
+        },
+        {
+            "ticker": "sjw",
+            "company_name": "SJW GROUP",
+            "cik": "766829",
+            "country": "us"
+        },
+        {
+            "ticker": "tbb",
+            "company_name": "AT&T INC.",
+            "cik": "732717",
+            "country": "us"
+        },
+        {
+            "ticker": "tbc",
+            "company_name": "AT&T INC.",
+            "cik": "732717",
+            "country": "us"
+        },
+        {
+            "ticker": "wit",
+            "company_name": "WIPRO LTD",
+            "cik": "1123799",
+            "country": "us"
+        },
+        {
+            "ticker": "fdx",
+            "company_name": "FEDEX CORP",
+            "cik": "1048911",
+            "country": "us"
+        },
+        {
+            "ticker": "hei",
+            "company_name": "HEICO CORP",
+            "cik": "46619",
+            "country": "us"
+        },
+        {
+            "ticker": "hsy",
+            "company_name": "HERSHEY CO",
+            "cik": "47111",
+            "country": "us"
+        },
+        {
+            "ticker": "kex",
+            "company_name": "KIRBY CORP",
+            "cik": "56047",
+            "country": "us"
+        },
+        {
+            "ticker": "rgs",
+            "company_name": "REGIS CORP",
+            "cik": "716643",
+            "country": "us"
+        },
+        {
+            "ticker": "tex",
+            "company_name": "TEREX CORP",
+            "cik": "97216",
+            "country": "us"
+        },
+        {
+            "ticker": "csr",
+            "company_name": "CENTERSPACE",
+            "cik": "798359",
+            "country": "us"
+        },
+        {
+            "ticker": "efx",
+            "company_name": "EQUIFAX INC",
+            "cik": "33185",
+            "country": "us"
+        },
+        {
+            "ticker": "ida",
+            "company_name": "IDACORP INC",
+            "cik": "1057877",
+            "country": "us"
+        },
+        {
+            "ticker": "ipw",
+            "company_name": "iPower Inc.",
+            "cik": "1830072",
+            "country": "us"
+        },
+        {
+            "ticker": "mac",
+            "company_name": "MACERICH CO",
+            "cik": "912242",
+            "country": "us"
+        },
+        {
+            "ticker": "nvs",
+            "company_name": "NOVARTIS AG",
+            "cik": "1114448",
+            "country": "us"
+        },
+        {
+            "ticker": "pcb",
+            "company_name": "PCB BANCORP",
+            "cik": "1423869",
+            "country": "us"
+        },
+        {
+            "ticker": "rum",
+            "company_name": "Rumble Inc.",
+            "cik": "1830081",
+            "country": "us"
+        },
+        {
+            "ticker": "skt",
+            "company_name": "TANGER INC.",
+            "cik": "899715",
+            "country": "us"
+        },
+        {
+            "ticker": "tgt",
+            "company_name": "TARGET CORP",
+            "cik": "27419",
+            "country": "us"
+        },
+        {
+            "ticker": "azo",
+            "company_name": "AUTOZONE INC",
+            "cik": "866787",
+            "country": "us"
+        },
+        {
+            "ticker": "bcs",
+            "company_name": "BARCLAYS PLC",
+            "cik": "312069",
+            "country": "us"
+        },
+        {
+            "ticker": "cuk",
+            "company_name": "CARNIVAL PLC",
+            "cik": "1125259",
+            "country": "us"
+        },
+        {
+            "ticker": "erj",
+            "company_name": "EMBRAER S.A.",
+            "cik": "1355444",
+            "country": "us"
+        },
+        {
+            "ticker": "med",
+            "company_name": "MEDIFAST INC",
+            "cik": "910329",
+            "country": "us"
+        },
+        {
+            "ticker": "osk",
+            "company_name": "OSHKOSH CORP",
+            "cik": "775158",
+            "country": "us"
+        },
+        {
+            "ticker": "ryn",
+            "company_name": "RAYONIER INC",
+            "cik": "52827",
+            "country": "us"
+        },
+        {
+            "ticker": "tfx",
+            "company_name": "TELEFLEX INC",
+            "cik": "96943",
+            "country": "us"
+        },
+        {
+            "ticker": "all",
+            "company_name": "ALLSTATE CORP",
+            "cik": "899051",
+            "country": "us"
+        },
+        {
+            "ticker": "ful",
+            "company_name": "FULLER H B CO",
+            "cik": "39368",
+            "country": "us"
+        },
+        {
+            "ticker": "hdb",
+            "company_name": "HDFC BANK LTD",
+            "cik": "1144967",
+            "country": "us"
+        },
+        {
+            "ticker": "mtb",
+            "company_name": "M&T BANK CORP",
+            "cik": "36270",
+            "country": "us"
+        },
+        {
+            "ticker": "ogn",
+            "company_name": "Organon & Co.",
+            "cik": "1821825",
+            "country": "us"
+        },
+        {
+            "ticker": "clx",
+            "company_name": "CLOROX CO /DE/",
+            "cik": "21076",
+            "country": "us"
+        },
+        {
+            "ticker": "cxm",
+            "company_name": "Sprinklr, Inc.",
+            "cik": "1569345",
+            "country": "us"
+        },
+        {
+            "ticker": "day",
+            "company_name": "Dayforce, Inc.",
+            "cik": "1725057",
+            "country": "us"
+        },
+        {
+            "ticker": "etn",
+            "company_name": "Eaton Corp plc",
+            "cik": "1551182",
+            "country": "us"
+        },
+        {
+            "ticker": "gme",
+            "company_name": "GameStop Corp.",
+            "cik": "1326380",
+            "country": "us"
+        },
+        {
+            "ticker": "iex",
+            "company_name": "IDEX CORP /DE/",
+            "cik": "832101",
+            "country": "us"
+        },
+        {
+            "ticker": "khc",
+            "company_name": "Kraft Heinz Co",
+            "cik": "1637459",
+            "country": "us"
+        },
+        {
+            "ticker": "mcd",
+            "company_name": "MCDONALDS CORP",
+            "cik": "63908",
+            "country": "us"
+        },
+        {
+            "ticker": "pld",
+            "company_name": "Prologis, Inc.",
+            "cik": "1045609",
+            "country": "us"
+        },
+        {
+            "ticker": "tef",
+            "company_name": "TELEFONICA S A",
+            "cik": "814052",
+            "country": "us"
+        },
+        {
+            "ticker": "tpr",
+            "company_name": "TAPESTRY, INC.",
+            "cik": "1116132",
+            "country": "us"
+        },
+        {
+            "ticker": "trp",
+            "company_name": "TC ENERGY CORP",
+            "cik": "1232384",
+            "country": "us"
+        },
+        {
+            "ticker": "alt",
+            "company_name": "Altimmune, Inc.",
+            "cik": "1326190",
+            "country": "us"
+        },
+        {
+            "ticker": "cat",
+            "company_name": "CATERPILLAR INC",
+            "cik": "18230",
+            "country": "us"
+        },
+        {
+            "ticker": "gev",
+            "company_name": "GE Vernova Inc.",
+            "cik": "1996810",
+            "country": "us"
+        },
+        {
+            "ticker": "gfi",
+            "company_name": "GOLD FIELDS LTD",
+            "cik": "1172724",
+            "country": "us"
+        },
+        {
+            "ticker": "pbf",
+            "company_name": "PBF Energy Inc.",
+            "cik": "1534504",
+            "country": "us"
+        },
+        {
+            "ticker": "ssb",
+            "company_name": "SouthState Corp",
+            "cik": "764038",
+            "country": "us"
+        },
+        {
+            "ticker": "wsr",
+            "company_name": "Whitestone REIT",
+            "cik": "1175535",
+            "country": "us"
+        },
+        {
+            "ticker": "xel",
+            "company_name": "XCEL ENERGY INC",
+            "cik": "72903",
+            "country": "us"
+        },
+        {
+            "ticker": "bku",
+            "company_name": "BankUnited, Inc.",
+            "cik": "1504008",
+            "country": "us"
+        },
+        {
+            "ticker": "bmi",
+            "company_name": "BADGER METER INC",
+            "cik": "9092",
+            "country": "us"
+        },
+        {
+            "ticker": "byd",
+            "company_name": "BOYD GAMING CORP",
+            "cik": "906553",
+            "country": "us"
+        },
+        {
+            "ticker": "dci",
+            "company_name": "DONALDSON Co INC",
+            "cik": "29644",
+            "country": "us"
+        },
+        {
+            "ticker": "duk",
+            "company_name": "Duke Energy CORP",
+            "cik": "1326160",
+            "country": "us"
+        },
+        {
+            "ticker": "imo",
+            "company_name": "IMPERIAL OIL LTD",
+            "cik": "49938",
+            "country": "us"
+        },
+        {
+            "ticker": "mco",
+            "company_name": "MOODYS CORP /DE/",
+            "cik": "1059556",
+            "country": "us"
+        },
+        {
+            "ticker": "net",
+            "company_name": "Cloudflare, Inc.",
+            "cik": "1477333",
+            "country": "us"
+        },
+        {
+            "ticker": "ofs",
+            "company_name": "OFS Capital Corp",
+            "cik": "1487918",
+            "country": "us"
+        },
+        {
+            "ticker": "tte",
+            "company_name": "TotalEnergies SE",
+            "cik": "879764",
+            "country": "us"
+        },
+        {
+            "ticker": "boc",
+            "company_name": "BOSTON OMAHA Corp",
+            "cik": "1494582",
+            "country": "us"
+        },
+        {
+            "ticker": "dpz",
+            "company_name": "DOMINOS PIZZA INC",
+            "cik": "1286681",
+            "country": "us"
+        },
+        {
+            "ticker": "eme",
+            "company_name": "EMCOR Group, Inc.",
+            "cik": "105634",
+            "country": "us"
+        },
+        {
+            "ticker": "eog",
+            "company_name": "EOG RESOURCES INC",
+            "cik": "821189",
+            "country": "us"
+        },
+        {
+            "ticker": "gis",
+            "company_name": "GENERAL MILLS INC",
+            "cik": "40704",
+            "country": "us"
+        },
+        {
+            "ticker": "kgc",
+            "company_name": "KINROSS GOLD CORP",
+            "cik": "701818",
+            "country": "us"
+        },
+        {
+            "ticker": "kim",
+            "company_name": "KIMCO REALTY CORP",
+            "cik": "879101",
+            "country": "us"
+        },
+        {
+            "ticker": "mro",
+            "company_name": "MARATHON OIL CORP",
+            "cik": "101778",
+            "country": "us"
+        },
+        {
+            "ticker": "opk",
+            "company_name": "OPKO HEALTH, INC.",
+            "cik": "944809",
+            "country": "us"
+        },
+        {
+            "ticker": "pam",
+            "company_name": "Pampa Energy Inc.",
+            "cik": "1469395",
+            "country": "us"
+        },
+        {
+            "ticker": "rlj",
+            "company_name": "RLJ Lodging Trust",
+            "cik": "1511337",
+            "country": "us"
+        },
+        {
+            "ticker": "tan",
+            "company_name": "INVESCO SOLAR ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "tgi",
+            "company_name": "TRIUMPH GROUP INC",
+            "cik": "1021162",
+            "country": "us"
+        },
+        {
+            "ticker": "tsn",
+            "company_name": "TYSON FOODS, INC.",
+            "cik": "100493",
+            "country": "us"
+        },
+        {
+            "ticker": "vxx",
+            "company_name": "BARCLAYS BANK PLC",
+            "cik": "312070",
+            "country": "us"
+        },
+        {
+            "ticker": "vxz",
+            "company_name": "BARCLAYS BANK PLC",
+            "cik": "312070",
+            "country": "us"
+        },
+        {
+            "ticker": "adi",
+            "company_name": "ANALOG DEVICES INC",
+            "cik": "6281",
+            "country": "us"
+        },
+        {
+            "ticker": "agq",
+            "company_name": "ProShares Trust II",
+            "cik": "1415311",
+            "country": "us"
+        },
+        {
+            "ticker": "aph",
+            "company_name": "AMPHENOL CORP /DE/",
+            "cik": "820313",
+            "country": "us"
+        },
+        {
+            "ticker": "apt",
+            "company_name": "ALPHA PRO TECH LTD",
+            "cik": "884269",
+            "country": "us"
+        },
+        {
+            "ticker": "cgc",
+            "company_name": "Canopy Growth Corp",
+            "cik": "1737927",
+            "country": "us"
+        },
+        {
+            "ticker": "dei",
+            "company_name": "Douglas Emmett Inc",
+            "cik": "1364250",
+            "country": "us"
+        },
+        {
+            "ticker": "iev",
+            "company_name": "ISHARES EUROPE ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "mkc",
+            "company_name": "MCCORMICK & CO INC",
+            "cik": "63754",
+            "country": "us"
+        },
+        {
+            "ticker": "nxe",
+            "company_name": "NexGen Energy Ltd.",
+            "cik": "1698535",
+            "country": "us"
+        },
+        {
+            "ticker": "rrx",
+            "company_name": "REGAL REXNORD CORP",
+            "cik": "82811",
+            "country": "us"
+        },
+        {
+            "ticker": "uco",
+            "company_name": "ProShares Trust II",
+            "cik": "1415311",
+            "country": "us"
+        },
+        {
+            "ticker": "unp",
+            "company_name": "UNION PACIFIC CORP",
+            "cik": "100885",
+            "country": "us"
+        },
+        {
+            "ticker": "vnm",
+            "company_name": "VANECK VIETNAM ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "you",
+            "company_name": "Clear Secure, Inc.",
+            "cik": "1856314",
+            "country": "us"
+        },
+        {
+            "ticker": "avy",
+            "company_name": "Avery Dennison Corp",
+            "cik": "8818",
+            "country": "us"
+        },
+        {
+            "ticker": "axp",
+            "company_name": "AMERICAN EXPRESS CO",
+            "cik": "4962",
+            "country": "us"
+        },
+        {
+            "ticker": "cag",
+            "company_name": "CONAGRA BRANDS INC.",
+            "cik": "23217",
+            "country": "us"
+        },
+        {
+            "ticker": "cah",
+            "company_name": "CARDINAL HEALTH INC",
+            "cik": "721371",
+            "country": "us"
+        },
+        {
+            "ticker": "cnh",
+            "company_name": "CNH Industrial N.V.",
+            "cik": "1567094",
+            "country": "us"
+        },
+        {
+            "ticker": "emr",
+            "company_name": "EMERSON ELECTRIC CO",
+            "cik": "32604",
+            "country": "us"
+        },
+        {
+            "ticker": "gww",
+            "company_name": "W.W. GRAINGER, INC.",
+            "cik": "277135",
+            "country": "us"
+        },
+        {
+            "ticker": "gxo",
+            "company_name": "GXO Logistics, Inc.",
+            "cik": "1852244",
+            "country": "us"
+        },
+        {
+            "ticker": "jpm",
+            "company_name": "JPMORGAN CHASE & CO",
+            "cik": "19617",
+            "country": "us"
+        },
+        {
+            "ticker": "kmb",
+            "company_name": "KIMBERLY CLARK CORP",
+            "cik": "55785",
+            "country": "us"
+        },
+        {
+            "ticker": "par",
+            "company_name": "PAR TECHNOLOGY CORP",
+            "cik": "708821",
+            "country": "us"
+        },
+        {
+            "ticker": "ppc",
+            "company_name": "PILGRIMS PRIDE CORP",
+            "cik": "802481",
+            "country": "us"
+        },
+        {
+            "ticker": "sig",
+            "company_name": "SIGNET JEWELERS LTD",
+            "cik": "832988",
+            "country": "us"
+        },
+        {
+            "ticker": "sui",
+            "company_name": "SUN COMMUNITIES INC",
+            "cik": "912593",
+            "country": "us"
+        },
+        {
+            "ticker": "tho",
+            "company_name": "THOR INDUSTRIES INC",
+            "cik": "730263",
+            "country": "us"
+        },
+        {
+            "ticker": "tol",
+            "company_name": "Toll Brothers, Inc.",
+            "cik": "794170",
+            "country": "us"
+        },
+        {
+            "ticker": "bzh",
+            "company_name": "BEAZER HOMES USA INC",
+            "cik": "915840",
+            "country": "us"
+        },
+        {
+            "ticker": "cwi",
+            "company_name": "SPDR MSCI ACWI EX-US",
+            "country": "us"
+        },
+        {
+            "ticker": "dvn",
+            "company_name": "DEVON ENERGY CORP/DE",
+            "cik": "1090012",
+            "country": "us"
+        },
+        {
+            "ticker": "eix",
+            "company_name": "EDISON INTERNATIONAL",
+            "cik": "827052",
+            "country": "us"
+        },
+        {
+            "ticker": "fcx",
+            "company_name": "FREEPORT-MCMORAN INC",
+            "cik": "831259",
+            "country": "us"
+        },
+        {
+            "ticker": "hbm",
+            "company_name": "Hudbay Minerals Inc.",
+            "cik": "1322422",
+            "country": "us"
+        },
+        {
+            "ticker": "lvs",
+            "company_name": "LAS VEGAS SANDS CORP",
+            "cik": "1300514",
+            "country": "us"
+        },
+        {
+            "ticker": "mpx",
+            "company_name": "MARINE PRODUCTS CORP",
+            "cik": "1129155",
+            "country": "us"
+        },
+        {
+            "ticker": "nfg",
+            "company_name": "NATIONAL FUEL GAS CO",
+            "cik": "70145",
+            "country": "us"
+        },
+        {
+            "ticker": "pgr",
+            "company_name": "PROGRESSIVE CORP/OH/",
+            "cik": "80661",
+            "country": "us"
+        },
+        {
+            "ticker": "qsg",
+            "company_name": "QuantaSing Group Ltd",
+            "cik": "1932770",
+            "country": "us"
+        },
+        {
+            "ticker": "wdc",
+            "company_name": "WESTERN DIGITAL CORP",
+            "cik": "106040",
+            "country": "us"
+        },
+        {
+            "ticker": "amh",
+            "company_name": "American Homes 4 Rent",
+            "cik": "1562401",
+            "country": "us"
+        },
+        {
+            "ticker": "asc",
+            "company_name": "Ardmore Shipping Corp",
+            "cik": "1577437",
+            "country": "us"
+        },
+        {
+            "ticker": "cpt",
+            "company_name": "CAMDEN PROPERTY TRUST",
+            "cik": "906345",
+            "country": "us"
+        },
+        {
+            "ticker": "dal",
+            "company_name": "DELTA AIR LINES, INC.",
+            "cik": "27904",
+            "country": "us"
+        },
+        {
+            "ticker": "ddm",
+            "company_name": "PROSHARES ULTRA DOW30",
+            "country": "us"
+        },
+        {
+            "ticker": "dog",
+            "company_name": "PROSHARES SHORT DOW30",
+            "country": "us"
+        },
+        {
+            "ticker": "dsp",
+            "company_name": "Viant Technology Inc.",
+            "cik": "1828791",
+            "country": "us"
+        },
+        {
+            "ticker": "ehc",
+            "company_name": "Encompass Health Corp",
+            "cik": "785161",
+            "country": "us"
+        },
+        {
+            "ticker": "kop",
+            "company_name": "Koppers Holdings Inc.",
+            "cik": "1315257",
+            "country": "us"
+        },
+        {
+            "ticker": "lng",
+            "company_name": "Cheniere Energy, Inc.",
+            "cik": "3570",
+            "country": "us"
+        },
+        {
+            "ticker": "lot",
+            "company_name": "Lotus Technology Inc.",
+            "cik": "1962746",
+            "country": "us"
+        },
+        {
+            "ticker": "luv",
+            "company_name": "SOUTHWEST AIRLINES CO",
+            "cik": "92380",
+            "country": "us"
+        },
+        {
+            "ticker": "nsc",
+            "company_name": "NORFOLK SOUTHERN CORP",
+            "cik": "702165",
+            "country": "us"
+        },
+        {
+            "ticker": "owl",
+            "company_name": "BLUE OWL CAPITAL INC.",
+            "cik": "1823945",
+            "country": "us"
+        },
+        {
+            "ticker": "smc",
+            "company_name": "Summit Midstream Corp",
+            "cik": "2024218",
+            "country": "us"
+        },
+        {
+            "ticker": "tfc",
+            "company_name": "TRUIST FINANCIAL CORP",
+            "cik": "92230",
+            "country": "us"
+        },
+        {
+            "ticker": "ugp",
+            "company_name": "ULTRAPAR HOLDINGS INC",
+            "cik": "1094972",
+            "country": "us"
+        },
+        {
+            "ticker": "vlo",
+            "company_name": "VALERO ENERGY CORP/TX",
+            "cik": "1035002",
+            "country": "us"
+        },
+        {
+            "ticker": "wgs",
+            "company_name": "GeneDx Holdings Corp.",
+            "cik": "1818331",
+            "country": "us"
+        },
+        {
+            "ticker": "xlp",
+            "company_name": "CONSUMER STAPLES SPDR",
+            "country": "us"
+        },
+        {
+            "ticker": "alk",
+            "company_name": "ALASKA AIR GROUP, INC.",
+            "cik": "766421",
+            "country": "us"
+        },
+        {
+            "ticker": "ben",
+            "company_name": "FRANKLIN RESOURCES INC",
+            "cik": "38777",
+            "country": "us"
+        },
+        {
+            "ticker": "chk",
+            "company_name": "CHESAPEAKE ENERGY CORP",
+            "cik": "895126",
+            "country": "us"
+        },
+        {
+            "ticker": "crk",
+            "company_name": "COMSTOCK RESOURCES INC",
+            "cik": "23194",
+            "country": "us"
+        },
+        {
+            "ticker": "csl",
+            "company_name": "CARLISLE COMPANIES INC",
+            "cik": "790051",
+            "country": "us"
+        },
+        {
+            "ticker": "fez",
+            "company_name": "SPDR EURO STOXX 50 ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "fpi",
+            "company_name": "Farmland Partners Inc.",
+            "cik": "1591670",
+            "country": "us"
+        },
+        {
+            "ticker": "gfl",
+            "company_name": "GFL Environmental Inc.",
+            "cik": "1780232",
+            "country": "us"
+        },
+        {
+            "ticker": "hcc",
+            "company_name": "WARRIOR MET COAL, INC.",
+            "cik": "1691303",
+            "country": "us"
+        },
+        {
+            "ticker": "iep",
+            "company_name": "ICAHN ENTERPRISES L.P.",
+            "cik": "813762",
+            "country": "us"
+        },
+        {
+            "ticker": "lac",
+            "company_name": "LITHIUM AMERICAS CORP.",
+            "cik": "1966983",
+            "country": "us"
+        },
+        {
+            "ticker": "lpx",
+            "company_name": "LOUISIANA-PACIFIC CORP",
+            "cik": "60519",
+            "country": "us"
+        },
+        {
+            "ticker": "phg",
+            "company_name": "KONINKLIJKE PHILIPS NV",
+            "cik": "313216",
+            "country": "us"
+        },
+        {
+            "ticker": "slp",
+            "company_name": "Simulations Plus, Inc.",
+            "cik": "1023459",
+            "country": "us"
+        },
+        {
+            "ticker": "swn",
+            "company_name": "SOUTHWESTERN ENERGY CO",
+            "cik": "7332",
+            "country": "us"
+        },
+        {
+            "ticker": "tjx",
+            "company_name": "TJX COMPANIES INC /DE/",
+            "cik": "109198",
+            "country": "us"
+        },
+        {
+            "ticker": "tsq",
+            "company_name": "Townsquare Media, Inc.",
+            "cik": "1499832",
+            "country": "us"
+        },
+        {
+            "ticker": "aur",
+            "company_name": "Aurora Innovation, Inc.",
+            "cik": "1828108",
+            "country": "us"
+        },
+        {
+            "ticker": "brf",
+            "company_name": "VANECK BRAZIL SMALL-CAP",
+            "country": "us"
+        },
+        {
+            "ticker": "cnf",
+            "company_name": "CNFinance Holdings Ltd.",
+            "cik": "1733868",
+            "country": "us"
+        },
+        {
+            "ticker": "cto",
+            "company_name": "CTO Realty Growth, Inc.",
+            "cik": "23795",
+            "country": "us"
+        },
+        {
+            "ticker": "ewc",
+            "company_name": "ISHARES MSCI CANADA ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "fix",
+            "company_name": "COMFORT SYSTEMS USA INC",
+            "cik": "1035983",
+            "country": "us"
+        },
+        {
+            "ticker": "frd",
+            "company_name": "FRIEDMAN INDUSTRIES INC",
+            "cik": "39092",
+            "country": "us"
+        },
+        {
+            "ticker": "mga",
+            "company_name": "MAGNA INTERNATIONAL INC",
+            "cik": "749098",
+            "country": "us"
+        },
+        {
+            "ticker": "mgy",
+            "company_name": "Magnolia Oil & Gas Corp",
+            "cik": "1698990",
+            "country": "us"
+        },
+        {
+            "ticker": "mpc",
+            "company_name": "Marathon Petroleum Corp",
+            "cik": "1510295",
+            "country": "us"
+        },
+        {
+            "ticker": "rnw",
+            "company_name": "ReNew Energy Global plc",
+            "cik": "1848763",
+            "country": "us"
+        },
+        {
+            "ticker": "rsg",
+            "company_name": "REPUBLIC SERVICES, INC.",
+            "cik": "1060391",
+            "country": "us"
+        },
+        {
+            "ticker": "rwr",
+            "company_name": "SPDR DOW JONES REIT ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "tpl",
+            "company_name": "Texas Pacific Land Corp",
+            "cik": "1811074",
+            "country": "us"
+        },
+        {
+            "ticker": "tur",
+            "company_name": "iShares MSCI Turkey ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "vly",
+            "company_name": "VALLEY NATIONAL BANCORP",
+            "cik": "714310",
+            "country": "us"
+        },
+        {
+            "ticker": "wcn",
+            "company_name": "Waste Connections, Inc.",
+            "cik": "1318220",
+            "country": "us"
+        },
+        {
+            "ticker": "amt",
+            "company_name": "AMERICAN TOWER CORP /MA/",
+            "cik": "1053507",
+            "country": "us"
+        },
+        {
+            "ticker": "awr",
+            "company_name": "AMERICAN STATES WATER CO",
+            "cik": "1056903",
+            "country": "us"
+        },
+        {
+            "ticker": "bax",
+            "company_name": "BAXTER INTERNATIONAL INC",
+            "cik": "10456",
+            "country": "us"
+        },
+        {
+            "ticker": "dax",
+            "company_name": "Global X DAX Germany ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "dlb",
+            "company_name": "Dolby Laboratories, Inc.",
+            "cik": "1308547",
+            "country": "us"
+        },
+        {
+            "ticker": "efc",
+            "company_name": "Ellington Financial Inc.",
+            "cik": "1411342",
+            "country": "us"
+        },
+        {
+            "ticker": "ewg",
+            "company_name": "ISHARES MSCI GERMANY ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "idu",
+            "company_name": "ISHARES US UTILITIES ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "iyw",
+            "company_name": "ISHARES USTECHNOLOGY ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "msi",
+            "company_name": "Motorola Solutions, Inc.",
+            "cik": "68505",
+            "country": "us"
+        },
+        {
+            "ticker": "nfe",
+            "company_name": "New Fortress Energy Inc.",
+            "cik": "1749723",
+            "country": "us"
+        },
+        {
+            "ticker": "nne",
+            "company_name": "Nano Nuclear Energy Inc.",
+            "cik": "1923891",
+            "country": "us"
+        },
+        {
+            "ticker": "rok",
+            "company_name": "ROCKWELL AUTOMATION, INC",
+            "cik": "1024478",
+            "country": "us"
+        },
+        {
+            "ticker": "tap",
+            "company_name": "MOLSON COORS BEVERAGE CO",
+            "cik": "24545",
+            "country": "us"
+        },
+        {
+            "ticker": "wfc",
+            "company_name": "WELLS FARGO & COMPANY/MN",
+            "cik": "72971",
+            "country": "us"
+        },
+        {
+            "ticker": "wgo",
+            "company_name": "WINNEBAGO INDUSTRIES INC",
+            "cik": "107687",
+            "country": "us"
+        },
+        {
+            "ticker": "wmg",
+            "company_name": "Warner Music Group Corp.",
+            "cik": "1319161",
+            "country": "us"
+        },
+        {
+            "ticker": "ajg",
+            "company_name": "Arthur J. Gallagher & Co.",
+            "cik": "354190",
+            "country": "us"
+        },
+        {
+            "ticker": "epi",
+            "company_name": "WISDOMTREE INDIA EARNINGS",
+            "country": "us"
+        },
+        {
+            "ticker": "ewm",
+            "company_name": "ISHARES MSCI MALAYSIA ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "pdi",
+            "company_name": "PIMCO Dynamic Income Fund",
+            "cik": "1510599",
+            "country": "us"
+        },
+        {
+            "ticker": "rci",
+            "company_name": "ROGERS COMMUNICATIONS INC",
+            "cik": "733099",
+            "country": "us"
+        },
+        {
+            "ticker": "rpm",
+            "company_name": "RPM INTERNATIONAL INC/DE/",
+            "cik": "110621",
+            "country": "us"
+        },
+        {
+            "ticker": "rth",
+            "company_name": "VanEck Vectors Retail ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "snt",
+            "company_name": "Senstar Technologies Corp",
+            "cik": "1993727",
+            "country": "us"
+        },
+        {
+            "ticker": "tdy",
+            "company_name": "TELEDYNE TECHNOLOGIES INC",
+            "cik": "1094285",
+            "country": "us"
+        },
+        {
+            "ticker": "bug",
+            "company_name": "Global X Cybersecurity ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "cmg",
+            "company_name": "CHIPOTLE MEXICAN GRILL INC",
+            "cik": "1058090",
+            "country": "us"
+        },
+        {
+            "ticker": "cof",
+            "company_name": "CAPITAL ONE FINANCIAL CORP",
+            "cik": "927628",
+            "country": "us"
+        },
+        {
+            "ticker": "div",
+            "company_name": "GLOBAL X SUPERDIVIDEND USE",
+            "country": "us"
+        },
+        {
+            "ticker": "dlr",
+            "company_name": "DIGITAL REALTY TRUST, INC.",
+            "cik": "1297996",
+            "country": "us"
+        },
+        {
+            "ticker": "dnp",
+            "company_name": "DNP SELECT INCOME FUND INC",
+            "cik": "806628",
+            "country": "us"
+        },
+        {
+            "ticker": "dxd",
+            "company_name": "PROSHARES ULTRASHORT DOW30",
+            "country": "us"
+        },
+        {
+            "ticker": "dxj",
+            "company_name": "WISDOMTREE JAPAN HEDGED EQ",
+            "country": "us"
+        },
+        {
+            "ticker": "hmy",
+            "company_name": "HARMONY GOLD MINING CO LTD",
+            "cik": "1023514",
+            "country": "us"
+        },
+        {
+            "ticker": "noc",
+            "company_name": "NORTHROP GRUMMAN CORP /DE/",
+            "cik": "1133421",
+            "country": "us"
+        },
+        {
+            "ticker": "srg",
+            "company_name": "Seritage Growth Properties",
+            "cik": "1628063",
+            "country": "us"
+        },
+        {
+            "ticker": "aat",
+            "company_name": "American Assets Trust, Inc.",
+            "cik": "1500217",
+            "country": "us"
+        },
+        {
+            "ticker": "cfb",
+            "company_name": "CROSSFIRST BANKSHARES, INC.",
+            "cik": "1458412",
+            "country": "us"
+        },
+        {
+            "ticker": "chd",
+            "company_name": "CHURCH & DWIGHT CO INC /DE/",
+            "cik": "313927",
+            "country": "us"
+        },
+        {
+            "ticker": "czr",
+            "company_name": "Caesars Entertainment, Inc.",
+            "cik": "1590895",
+            "country": "us"
+        },
+        {
+            "ticker": "dbb",
+            "company_name": "INVESCO DB BASE METALS FUND",
+            "cik": "1383084",
+            "country": "us"
+        },
+        {
+            "ticker": "dfe",
+            "company_name": "WISDOMTREE EUR S/C DIVIDEND",
+            "country": "us"
+        },
+        {
+            "ticker": "dfj",
+            "company_name": "WISDOMTREE JPN S/C DVD FUND",
+            "country": "us"
+        },
+        {
+            "ticker": "dfs",
+            "company_name": "Discover Financial Services",
+            "cik": "1393612",
+            "country": "us"
+        },
+        {
+            "ticker": "dhs",
+            "company_name": "WISDOMTREE US HIGH DIVIDEND",
+            "country": "us"
+        },
+        {
+            "ticker": "dsi",
+            "company_name": "ISHARES MSCI KLD 400 SOCIAL",
+            "country": "us"
+        },
+        {
+            "ticker": "edv",
+            "company_name": "VANGUARD EXTENDED DUR TREAS",
+            "country": "us"
+        },
+        {
+            "ticker": "fcg",
+            "company_name": "FIRST TRUST NATURAL GAS ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "fdp",
+            "company_name": "FRESH DEL MONTE PRODUCE INC",
+            "cik": "1047340",
+            "country": "us"
+        },
+        {
+            "ticker": "ihy",
+            "company_name": "VANECK INTL HIGH YIELD BOND",
+            "country": "us"
+        },
+        {
+            "ticker": "jhx",
+            "company_name": "James Hardie Industries plc",
+            "cik": "1159152",
+            "country": "us"
+        },
+        {
+            "ticker": "mmv",
+            "company_name": "MultiMetaVerse Holdings Ltd",
+            "cik": "1874074",
+            "country": "us"
+        },
+        {
+            "ticker": "orc",
+            "company_name": "Orchid Island Capital, Inc.",
+            "cik": "1518621",
+            "country": "us"
+        },
+        {
+            "ticker": "pbt",
+            "company_name": "PERMIAN BASIN ROYALTY TRUST",
+            "cik": "319654",
+            "country": "us"
+        },
+        {
+            "ticker": "ppa",
+            "company_name": "INVESCO AEROSPACE & DEFENSE",
+            "country": "us"
+        },
+        {
+            "ticker": "vvr",
+            "company_name": "Invesco Senior Income Trust",
+            "cik": "1059386",
+            "country": "us"
+        },
+        {
+            "ticker": "xop",
+            "company_name": "SPDR S&P OIL & GAS EXP & PR",
+            "country": "us"
+        },
+        {
+            "ticker": "xsw",
+            "company_name": "SPDR S&P SOFTWARE & SER ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "aal",
+            "company_name": "American Airlines Group Inc.",
+            "cik": "6201",
+            "country": "us"
+        },
+        {
+            "ticker": "afg",
+            "company_name": "AMERICAN FINANCIAL GROUP INC",
+            "cik": "1042046",
+            "country": "us"
+        },
+        {
+            "ticker": "dkl",
+            "company_name": "Delek Logistics Partners, LP",
+            "cik": "1552797",
+            "country": "us"
+        },
+        {
+            "ticker": "edc",
+            "company_name": "DIREXION DLY EMG MKT BULL 3X",
+            "country": "us"
+        },
+        {
+            "ticker": "edz",
+            "company_name": "DIREXION DLY EMG MKT BEAR 3X",
+            "country": "us"
+        },
+        {
+            "ticker": "efg",
+            "company_name": "ISHARES MSCI EAFE GROWTH ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "eps",
+            "company_name": "WISDOMTREE US LARGE CAP FUND",
+            "country": "us"
+        },
+        {
+            "ticker": "eza",
+            "company_name": "ISHARES MSCI SOUTH AFRICA ET",
+            "country": "us"
+        },
+        {
+            "ticker": "fds",
+            "company_name": "FACTSET RESEARCH SYSTEMS INC",
+            "cik": "1013237",
+            "country": "us"
+        },
+        {
+            "ticker": "hys",
+            "company_name": "PIMCO 0-5 YEAR H/Y CORP BOND",
+            "country": "us"
+        },
+        {
+            "ticker": "ieo",
+            "company_name": "ISHARES U.S. OIL & GAS EXPLO",
+            "country": "us"
+        },
+        {
+            "ticker": "iez",
+            "company_name": "ISHARES U.S. OIL EQUIPMENT &",
+            "country": "us"
+        },
+        {
+            "ticker": "ijk",
+            "company_name": "ISHARES S&P MID-CAP 400 GROW",
+            "country": "us"
+        },
+        {
+            "ticker": "iyc",
+            "company_name": "ISHARES U.S. CONSUMER SERVIC",
+            "country": "us"
+        },
+        {
+            "ticker": "iyt",
+            "company_name": "ISHARES TRANSPORTATION AVERA",
+            "country": "us"
+        },
+        {
+            "ticker": "iyz",
+            "company_name": "ISHARES US TELECOMMUNICATION",
+            "country": "us"
+        },
+        {
+            "ticker": "msm",
+            "company_name": "MSC INDUSTRIAL DIRECT CO INC",
+            "cik": "1003078",
+            "country": "us"
+        },
+        {
+            "ticker": "pex",
+            "company_name": "PROSHARES GLOBAL LISTED PRIV",
+            "country": "us"
+        },
+        {
+            "ticker": "phb",
+            "company_name": "INVESCO FUNDAMENTAL HIGH YIE",
+            "country": "us"
+        },
+        {
+            "ticker": "pin",
+            "company_name": "INVESCO INDIA EXCHANGE-TRADE",
+            "country": "us"
+        },
+        {
+            "ticker": "psi",
+            "company_name": "INVESCO DYNAMIC SEMICONDUCTO",
+            "country": "us"
+        },
+        {
+            "ticker": "psp",
+            "company_name": "INVESCO GLOBAL LISTED PRIVAT",
+            "country": "us"
+        },
+        {
+            "ticker": "qai",
+            "company_name": "IQ HEDGE MULTI-STRAT TRACKER",
+            "country": "us"
+        },
+        {
+            "ticker": "rxi",
+            "company_name": "ISHARES GLOBAL CONSUMER DISC",
+            "country": "us"
+        },
+        {
+            "ticker": "scj",
+            "company_name": "ISHARES MSCI JAPAN SMALL-CAP",
+            "country": "us"
+        },
+        {
+            "ticker": "sfm",
+            "company_name": "Sprouts Farmers Market, Inc.",
+            "cik": "1575515",
+            "country": "us"
+        },
+        {
+            "ticker": "tak",
+            "company_name": "TAKEDA PHARMACEUTICAL CO LTD",
+            "cik": "1395064",
+            "country": "us"
+        },
+        {
+            "ticker": "tmf",
+            "company_name": "DRX DLY 20+ YR TREAS BULL 3X",
+            "country": "us"
+        },
+        {
+            "ticker": "vpc",
+            "company_name": "VIRTUS PRIVATE CREDIT STRATE",
+            "country": "us"
+        },
+        {
+            "ticker": "hpe",
+            "company_name": "Hewlett Packard Enterprise Co",
+            "cik": "1645590",
+            "country": "us"
+        },
+        {
+            "ticker": "spg",
+            "company_name": "SIMON PROPERTY GROUP INC /DE/",
+            "cik": "1063761",
+            "country": "us"
+        },
+        {
+            "ticker": "wpm",
+            "company_name": "Wheaton Precious Metals Corp.",
+            "cik": "1323404",
+            "country": "us"
+        },
+        {
+            "ticker": "aep",
+            "company_name": "AMERICAN ELECTRIC POWER CO INC",
+            "cik": "4904",
+            "country": "us"
+        },
+        {
+            "ticker": "apd",
+            "company_name": "Air Products & Chemicals, Inc.",
+            "cik": "2969",
+            "country": "us"
+        },
+        {
+            "ticker": "cyd",
+            "company_name": "CHINA YUCHAI INTERNATIONAL LTD",
+            "cik": "932695",
+            "country": "us"
+        },
+        {
+            "ticker": "lth",
+            "company_name": "Life Time Group Holdings, Inc.",
+            "cik": "1869198",
+            "country": "us"
+        },
+        {
+            "ticker": "ohi",
+            "company_name": "OMEGA HEALTHCARE INVESTORS INC",
+            "cik": "888491",
+            "country": "us"
+        },
+        {
+            "ticker": "pfm",
+            "company_name": "Invesco Dividend Achievers ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "scd",
+            "company_name": "LMP CAPITAL & INCOME FUND INC.",
+            "cik": "1270131",
+            "country": "us"
+        },
+        {
+            "ticker": "wba",
+            "company_name": "Walgreens Boots Alliance, Inc.",
+            "cik": "1618921",
+            "country": "us"
+        },
+        {
+            "ticker": "wes",
+            "company_name": "Western Midstream Partners, LP",
+            "cik": "1423902",
+            "country": "us"
+        },
+        {
+            "ticker": "ahh",
+            "company_name": "Armada Hoffler Properties, Inc.",
+            "cik": "1569187",
+            "country": "us"
+        },
+        {
+            "ticker": "bti",
+            "company_name": "British American Tobacco p.l.c.",
+            "cik": "1303523",
+            "country": "us"
+        },
+        {
+            "ticker": "eim",
+            "company_name": "EATON VANCE MUNICIPAL BOND FUND",
+            "cik": "1176984",
+            "country": "us"
+        },
+        {
+            "ticker": "fjp",
+            "company_name": "First Trust Japan AlphaDEX Fund",
+            "country": "us"
+        },
+        {
+            "ticker": "irt",
+            "company_name": "INDEPENDENCE REALTY TRUST, INC.",
+            "cik": "1466085",
+            "country": "us"
+        },
+        {
+            "ticker": "jbi",
+            "company_name": "Janus International Group, Inc.",
+            "cik": "1839839",
+            "country": "us"
+        },
+        {
+            "ticker": "paa",
+            "company_name": "PLAINS ALL AMERICAN PIPELINE LP",
+            "cik": "1070423",
+            "country": "us"
+        },
+        {
+            "ticker": "stx",
+            "company_name": "Seagate Technology Holdings plc",
+            "cik": "1137789",
+            "country": "us"
+        },
+        {
+            "ticker": "wal",
+            "company_name": "WESTERN ALLIANCE BANCORPORATION",
+            "cik": "1212545",
+            "country": "us"
+        },
+        {
+            "ticker": "cgo",
+            "company_name": "CALAMOS GLOBAL TOTAL RETURN FUND",
+            "cik": "1285650",
+            "country": "us"
+        },
+        {
+            "ticker": "glo",
+            "company_name": "Clough Global Opportunities Fund",
+            "cik": "1350869",
+            "country": "us"
+        },
+        {
+            "ticker": "lhx",
+            "company_name": "L3HARRIS TECHNOLOGIES, INC. /DE/",
+            "cik": "202058",
+            "country": "us"
+        },
+        {
+            "ticker": "mmc",
+            "company_name": "MARSH & MCLENNAN COMPANIES, INC.",
+            "cik": "62709",
+            "country": "us"
+        },
+        {
+            "ticker": "tgs",
+            "company_name": "GAS TRANSPORTER OF THE SOUTH INC",
+            "cik": "931427",
+            "country": "us"
+        },
+        {
+            "ticker": "aod",
+            "company_name": "abrdn Total Dynamic Dividend Fund",
+            "cik": "1379400",
+            "country": "us"
+        },
+        {
+            "ticker": "fgm",
+            "company_name": "First Trust Germany AlphaDEX Fund",
+            "country": "us"
+        },
+        {
+            "ticker": "gug",
+            "company_name": "Guggenheim Active Allocation Fund",
+            "cik": "1864208",
+            "country": "us"
+        },
+        {
+            "ticker": "por",
+            "company_name": "PORTLAND GENERAL ELECTRIC CO /OR/",
+            "cik": "784977",
+            "country": "us"
+        },
+        {
+            "ticker": "sqm",
+            "company_name": "CHEMICAL & MINING CO OF CHILE INC",
+            "cik": "909037",
+            "country": "us"
+        },
+        {
+            "ticker": "dhy",
+            "company_name": "CREDIT SUISSE HIGH YIELD BOND FUND",
+            "cik": "1061353",
+            "country": "us"
+        },
+        {
+            "ticker": "evn",
+            "company_name": "EATON VANCE MUNICIPAL INCOME TRUST",
+            "cik": "1074540",
+            "country": "us"
+        },
+        {
+            "ticker": "hpi",
+            "company_name": "JOHN HANCOCK PREFERRED INCOME FUND",
+            "cik": "1176199",
+            "country": "us"
+        },
+        {
+            "ticker": "iei",
+            "company_name": "iShares 3-7 Year Treasury Bond ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "pdx",
+            "company_name": "PIMCO Dynamic Income Strategy Fund",
+            "cik": "1756908",
+            "country": "us"
+        },
+        {
+            "ticker": "pnc",
+            "company_name": "PNC FINANCIAL SERVICES GROUP, INC.",
+            "cik": "713676",
+            "country": "us"
+        },
+        {
+            "ticker": "ung",
+            "company_name": "United States Natural Gas Fund, LP",
+            "cik": "1376227",
+            "country": "us"
+        },
+        {
+            "ticker": "acp",
+            "company_name": "abrdn Income Credit Strategies Fund",
+            "cik": "1503290",
+            "country": "us"
+        },
+        {
+            "ticker": "bit",
+            "company_name": "BlackRock Multi-Sector Income Trust",
+            "cik": "1562818",
+            "country": "us"
+        },
+        {
+            "ticker": "blw",
+            "company_name": "BLACKROCK Ltd DURATION INCOME TRUST",
+            "cik": "1233681",
+            "country": "us"
+        },
+        {
+            "ticker": "cef",
+            "company_name": "Sprott Physical Gold & Silver Trust",
+            "cik": "1726122",
+            "country": "us"
+        },
+        {
+            "ticker": "chh",
+            "company_name": "CHOICE HOTELS INTERNATIONAL INC /DE",
+            "cik": "1046311",
+            "country": "us"
+        },
+        {
+            "ticker": "ead",
+            "company_name": "ALLSPRING INCOME OPPORTUNITIES FUND",
+            "cik": "1210123",
+            "country": "us"
+        },
+        {
+            "ticker": "jpi",
+            "company_name": "Nuveen Preferred & Income Term Fund",
+            "cik": "1547994",
+            "country": "us"
+        },
+        {
+            "ticker": "cco",
+            "company_name": "Clear Channel Outdoor Holdings, Inc.",
+            "cik": "1334978",
+            "country": "us"
+        },
+        {
+            "ticker": "dea",
+            "company_name": "Easterly Government Properties, Inc.",
+            "cik": "1622194",
+            "country": "us"
+        },
+        {
+            "ticker": "fax",
+            "company_name": "ABRDN ASIA-PACIFIC INCOME FUND, INC.",
+            "cik": "790500",
+            "country": "us"
+        },
+        {
+            "ticker": "ipg",
+            "company_name": "INTERPUBLIC GROUP OF COMPANIES, INC.",
+            "cik": "51644",
+            "country": "us"
+        },
+        {
+            "ticker": "ntg",
+            "company_name": "Tortoise Midstream Energy Fund, Inc.",
+            "cik": "1490286",
+            "country": "us"
+        },
+        {
+            "ticker": "ghi",
+            "company_name": "Greystone Housing Impact Investors LP",
+            "cik": "1059142",
+            "country": "us"
+        },
+        {
+            "ticker": "ttp",
+            "company_name": "TORTOISE PIPELINE & ENERGY FUND, INC.",
+            "cik": "1526329",
+            "country": "us"
+        },
+        {
+            "ticker": "zim",
+            "company_name": "ZIM Integrated Shipping Services Ltd.",
+            "cik": "1654126",
+            "country": "us"
+        },
+        {
+            "ticker": "erh",
+            "company_name": "ALLSPRING UTILITIES & HIGH INCOME FUND",
+            "cik": "1279014",
+            "country": "us"
+        },
+        {
+            "ticker": "maa",
+            "company_name": "MID AMERICA APARTMENT COMMUNITIES INC.",
+            "cik": "912595",
+            "country": "us"
+        },
+        {
+            "ticker": "pcn",
+            "company_name": "PIMCO CORPORATE & INCOME STRATEGY FUND",
+            "cik": "1160990",
+            "country": "us"
+        },
+        {
+            "ticker": "tei",
+            "company_name": "TEMPLETON EMERGING MARKETS INCOME FUND",
+            "cik": "909112",
+            "country": "us"
+        },
+        {
+            "ticker": "ffa",
+            "company_name": "FIRST TRUST ENHANCED EQUITY INCOME FUND",
+            "cik": "1291334",
+            "country": "us"
+        },
+        {
+            "ticker": "udn",
+            "company_name": "INVESCO DB US DOLLAR INDEX BEARISH FUND",
+            "cik": "1383149",
+            "country": "us"
+        },
+        {
+            "ticker": "azi",
+            "company_name": "Autozi Internet Technology (Global) Ltd.",
+            "cik": "1959726",
+            "country": "us"
+        },
+        {
+            "ticker": "bdj",
+            "company_name": "BlackRock Enhanced Equity Dividend Trust",
+            "cik": "1332283",
+            "country": "us"
+        },
+        {
+            "ticker": "btz",
+            "company_name": "BLACKROCK CREDIT ALLOCATION INCOME TRUST",
+            "cik": "1379384",
+            "country": "us"
+        },
+        {
+            "ticker": "dbc",
+            "company_name": "Invesco DB Commodity Index Tracking Fund",
+            "cik": "1328237",
+            "country": "us"
+        },
+        {
+            "ticker": "fex",
+            "company_name": "First Trust Large Cap Core AlphaDEX Fund",
+            "country": "us"
+        },
+        {
+            "ticker": "hyt",
+            "company_name": "BLACKROCK CORPORATE HIGH YIELD FUND, INC.",
+            "cik": "1222401",
+            "country": "us"
+        },
+        {
+            "ticker": "gcc",
+            "company_name": "WisdomTree Continuous Commodity Index Fund",
+            "cik": "1379606",
+            "country": "us"
+        },
+        {
+            "ticker": "pzc",
+            "company_name": "PIMCO CALIFORNIA MUNICIPAL INCOME FUND III",
+            "cik": "1181504",
+            "country": "us"
+        },
+        {
+            "ticker": "mcn",
+            "company_name": "Madison Covered Call & Equity Strategy Fund",
+            "cik": "1289868",
+            "country": "us"
+        },
+        {
+            "ticker": "pez",
+            "company_name": "Invesco DWA Consumer Cyclicals Momentum ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "fxc",
+            "company_name": "Invesco CurrencyShares Canadian Dollar Trust",
+            "cik": "1353612",
+            "country": "us"
+        },
+        {
+            "ticker": "msd",
+            "company_name": "MORGAN STANLEY EMERGING MARKETS DEBT FUND INC",
+            "cik": "904112",
+            "country": "us"
+        },
+        {
+            "ticker": "tpz",
+            "company_name": "TORTOISE POWER & ENERGY INFRASTRUCTURE FUND INC",
+            "cik": "1408201",
+            "country": "us"
+        },
+        {
+            "ticker": "edf",
+            "company_name": "Virtus Stone Harbor Emerging Markets Income Fund",
+            "cik": "1501103",
+            "country": "us"
+        },
+        {
+            "ticker": "fof",
+            "company_name": "Cohen & Steers Closed-End Opportunity Fund, Inc.",
+            "cik": "1375340",
+            "country": "us"
+        },
+        {
+            "ticker": "emo",
+            "company_name": "ClearBridge Energy Midstream Opportunity Fund Inc.",
+            "cik": "1517518",
+            "country": "us"
+        },
+        {
+            "ticker": "psf",
+            "company_name": "Cohen & Steers Select Preferred & Income Fund, Inc.",
+            "cik": "1498612",
+            "country": "us"
+        },
+        {
+            "ticker": "fra",
+            "company_name": "BLACKROCK FLOATING RATE INCOME STRATEGIES FUND, INC.",
+            "cik": "1259708",
+            "country": "us"
+        },
+        {
+            "ticker": "stk",
+            "company_name": "Columbia Seligman Premium Technology Growth Fund, Inc.",
+            "cik": "1471420",
+            "country": "us"
+        },
+        {
+            "ticker": "edd",
+            "company_name": "Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.",
+            "cik": "1388141",
+            "country": "us"
+        },
+        {
+            "ticker": "fpf",
+            "company_name": "First Trust Intermediate Duration Preferred & Income Fund",
+            "cik": "1567569",
+            "country": "us"
+        },
+        {
+            "ticker": "eto",
+            "company_name": "Eaton Vance Tax-Advantaged Global Dividend Opportunities Fund",
+            "cik": "1281926",
+            "country": "us"
+        },
+        {
+            "ticker": "amna",
+            "company_name": "UBS AG",
+            "cik": "1114446",
+            "country": "us"
+        },
+        {
+            "ticker": "bdcx",
+            "company_name": "UBS AG",
+            "cik": "1114446",
+            "country": "us"
+        },
+        {
+            "ticker": "bdcz",
+            "company_name": "UBS AG",
+            "cik": "1114446",
+            "country": "us"
+        },
+        {
+            "ticker": "mplx",
+            "company_name": "MPLX LP",
+            "cik": "1552000",
+            "country": "us"
+        },
+        {
+            "ticker": "afya",
+            "company_name": "Afya Ltd",
+            "cik": "1771007",
+            "country": "us"
+        },
+        {
+            "ticker": "ebay",
+            "company_name": "EBAY INC",
+            "cik": "1065088",
+            "country": "us"
+        },
+        {
+            "ticker": "ooma",
+            "company_name": "OOMA INC",
+            "cik": "1327688",
+            "country": "us"
+        },
+        {
+            "ticker": "relx",
+            "company_name": "RELX PLC",
+            "cik": "929869",
+            "country": "us"
+        },
+        {
+            "ticker": "saia",
+            "company_name": "SAIA INC",
+            "cik": "1177702",
+            "country": "us"
+        },
+        {
+            "ticker": "snap",
+            "company_name": "Snap Inc",
+            "cik": "1564408",
+            "country": "us"
+        },
+        {
+            "ticker": "trmd",
+            "company_name": "TORM plc",
+            "cik": "1655891",
+            "country": "us"
+        },
+        {
+            "ticker": "yelp",
+            "company_name": "YELP INC",
+            "cik": "1345016",
+            "country": "us"
+        },
+        {
+            "ticker": "angi",
+            "company_name": "Angi Inc.",
+            "cik": "1705110",
+            "country": "us"
+        },
+        {
+            "ticker": "argx",
+            "company_name": "ARGENX SE",
+            "cik": "1697862",
+            "country": "us"
+        },
+        {
+            "ticker": "cube",
+            "company_name": "CubeSmart",
+            "cik": "1298675",
+            "country": "us"
+        },
+        {
+            "ticker": "evgo",
+            "company_name": "EVgo Inc.",
+            "cik": "1821159",
+            "country": "us"
+        },
+        {
+            "ticker": "flex",
+            "company_name": "FLEX LTD.",
+            "cik": "866374",
+            "country": "us"
+        },
+        {
+            "ticker": "ontf",
+            "company_name": "ON24 INC.",
+            "cik": "1110611",
+            "country": "us"
+        },
+        {
+            "ticker": "tuya",
+            "company_name": "Tuya Inc.",
+            "cik": "1829118",
+            "country": "us"
+        },
+        {
+            "ticker": "camt",
+            "company_name": "CAMTEK LTD",
+            "cik": "1109138",
+            "country": "us"
+        },
+        {
+            "ticker": "cang",
+            "company_name": "Cango Inc.",
+            "cik": "1725123",
+            "country": "us"
+        },
+        {
+            "ticker": "chgg",
+            "company_name": "CHEGG, INC",
+            "cik": "1364954",
+            "country": "us"
+        },
+        {
+            "ticker": "gauz",
+            "company_name": "Gauzy Ltd.",
+            "cik": "1781446",
+            "country": "us"
+        },
+        {
+            "ticker": "gmab",
+            "company_name": "GENMAB A/S",
+            "cik": "1434265",
+            "country": "us"
+        },
+        {
+            "ticker": "hafn",
+            "company_name": "Hafnia Ltd",
+            "cik": "1815779",
+            "country": "us"
+        },
+        {
+            "ticker": "insm",
+            "company_name": "INSMED Inc",
+            "cik": "1104506",
+            "country": "us"
+        },
+        {
+            "ticker": "ndoi",
+            "company_name": "Endo, Inc.",
+            "cik": "2008861",
+            "country": "us"
+        },
+        {
+            "ticker": "pcar",
+            "company_name": "PACCAR INC",
+            "cik": "75362",
+            "country": "us"
+        },
+        {
+            "ticker": "vicr",
+            "company_name": "VICOR CORP",
+            "cik": "751978",
+            "country": "us"
+        },
+        {
+            "ticker": "alco",
+            "company_name": "ALICO, INC.",
+            "cik": "3545",
+            "country": "us"
+        },
+        {
+            "ticker": "biib",
+            "company_name": "BIOGEN INC.",
+            "cik": "875045",
+            "country": "us"
+        },
+        {
+            "ticker": "crox",
+            "company_name": "Crocs, Inc.",
+            "cik": "1334036",
+            "country": "us"
+        },
+        {
+            "ticker": "edap",
+            "company_name": "EDAP TMS SA",
+            "cik": "1041934",
+            "country": "us"
+        },
+        {
+            "ticker": "eqix",
+            "company_name": "EQUINIX INC",
+            "cik": "1101239",
+            "country": "us"
+        },
+        {
+            "ticker": "fast",
+            "company_name": "FASTENAL CO",
+            "cik": "815556",
+            "country": "us"
+        },
+        {
+            "ticker": "gntx",
+            "company_name": "GENTEX CORP",
+            "cik": "355811",
+            "country": "us"
+        },
+        {
+            "ticker": "gtlb",
+            "company_name": "Gitlab Inc.",
+            "cik": "1653482",
+            "country": "us"
+        },
+        {
+            "ticker": "holx",
+            "company_name": "HOLOGIC INC",
+            "cik": "859737",
+            "country": "us"
+        },
+        {
+            "ticker": "hsai",
+            "company_name": "Hesai Group",
+            "cik": "1861737",
+            "country": "us"
+        },
+        {
+            "ticker": "intu",
+            "company_name": "INTUIT INC.",
+            "cik": "896878",
+            "country": "us"
+        },
+        {
+            "ticker": "irix",
+            "company_name": "IRIDEX CORP",
+            "cik": "1006045",
+            "country": "us"
+        },
+        {
+            "ticker": "nflx",
+            "company_name": "NETFLIX INC",
+            "cik": "1065280",
+            "country": "us"
+        },
+        {
+            "ticker": "nkla",
+            "company_name": "Nikola Corp",
+            "cik": "1731289",
+            "country": "us"
+        },
+        {
+            "ticker": "qgen",
+            "company_name": "QIAGEN N.V.",
+            "cik": "1015820",
+            "country": "us"
+        },
+        {
+            "ticker": "qrvo",
+            "company_name": "Qorvo, Inc.",
+            "cik": "1604778",
+            "country": "us"
+        },
+        {
+            "ticker": "trex",
+            "company_name": "TREX CO INC",
+            "cik": "1069878",
+            "country": "us"
+        },
+        {
+            "ticker": "alle",
+            "company_name": "Allegion plc",
+            "cik": "1579241",
+            "country": "us"
+        },
+        {
+            "ticker": "amed",
+            "company_name": "AMEDISYS INC",
+            "cik": "896262",
+            "country": "us"
+        },
+        {
+            "ticker": "azek",
+            "company_name": "AZEK Co Inc.",
+            "cik": "1782754",
+            "country": "us"
+        },
+        {
+            "ticker": "bitf",
+            "company_name": "Bitfarms Ltd",
+            "cik": "1812477",
+            "country": "us"
+        },
+        {
+            "ticker": "fsly",
+            "company_name": "Fastly, Inc.",
+            "cik": "1517413",
+            "country": "us"
+        },
+        {
+            "ticker": "glob",
+            "company_name": "Globant S.A.",
+            "cik": "1557860",
+            "country": "us"
+        },
+        {
+            "ticker": "inod",
+            "company_name": "INNODATA INC",
+            "cik": "903651",
+            "country": "us"
+        },
+        {
+            "ticker": "ospn",
+            "company_name": "OneSpan Inc.",
+            "cik": "1044777",
+            "country": "us"
+        },
+        {
+            "ticker": "qttb",
+            "company_name": "Q32 Bio Inc.",
+            "cik": "1661998",
+            "country": "us"
+        },
+        {
+            "ticker": "rere",
+            "company_name": "ATRenew Inc.",
+            "cik": "1838957",
+            "country": "us"
+        },
+        {
+            "ticker": "smtc",
+            "company_name": "SEMTECH CORP",
+            "cik": "88941",
+            "country": "us"
+        },
+        {
+            "ticker": "snps",
+            "company_name": "SYNOPSYS INC",
+            "cik": "883241",
+            "country": "us"
+        },
+        {
+            "ticker": "sohu",
+            "company_name": "Sohu.com Ltd",
+            "cik": "1734107",
+            "country": "us"
+        },
+        {
+            "ticker": "task",
+            "company_name": "TaskUs, Inc.",
+            "cik": "1829864",
+            "country": "us"
+        },
+        {
+            "ticker": "trux",
+            "company_name": "Truxton Corp",
+            "cik": "1578019",
+            "country": "us"
+        },
+        {
+            "ticker": "vcel",
+            "company_name": "Vericel Corp",
+            "cik": "887359",
+            "country": "us"
+        },
+        {
+            "ticker": "bili",
+            "company_name": "Bilibili Inc.",
+            "cik": "1723690",
+            "country": "us"
+        },
+        {
+            "ticker": "comp",
+            "company_name": "Compass, Inc.",
+            "cik": "1563190",
+            "country": "us"
+        },
+        {
+            "ticker": "flng",
+            "company_name": "Flex LNG Ltd.",
+            "cik": "1772253",
+            "country": "us"
+        },
+        {
+            "ticker": "glng",
+            "company_name": "GOLAR LNG LTD",
+            "cik": "1207179",
+            "country": "us"
+        },
+        {
+            "ticker": "line",
+            "company_name": "Lineage, Inc.",
+            "cik": "1868159",
+            "country": "us"
+        },
+        {
+            "ticker": "ngvt",
+            "company_name": "Ingevity Corp",
+            "cik": "1653477",
+            "country": "us"
+        },
+        {
+            "ticker": "ntes",
+            "company_name": "NetEase, Inc.",
+            "cik": "1110646",
+            "country": "us"
+        },
+        {
+            "ticker": "pinc",
+            "company_name": "Premier, Inc.",
+            "cik": "1577916",
+            "country": "us"
+        },
+        {
+            "ticker": "sats",
+            "company_name": "EchoStar CORP",
+            "cik": "1415404",
+            "country": "us"
+        },
+        {
+            "ticker": "wday",
+            "company_name": "Workday, Inc.",
+            "cik": "1327811",
+            "country": "us"
+        },
+        {
+            "ticker": "wing",
+            "company_name": "Wingstop Inc.",
+            "cik": "1636222",
+            "country": "us"
+        },
+        {
+            "ticker": "audc",
+            "company_name": "AUDIOCODES LTD",
+            "cik": "1086434",
+            "country": "us"
+        },
+        {
+            "ticker": "eyen",
+            "company_name": "EYENOVIA, INC.",
+            "cik": "1682639",
+            "country": "us"
+        },
+        {
+            "ticker": "frpt",
+            "company_name": "Freshpet, Inc.",
+            "cik": "1611647",
+            "country": "us"
+        },
+        {
+            "ticker": "hiti",
+            "company_name": "High Tide Inc.",
+            "cik": "1847409",
+            "country": "us"
+        },
+        {
+            "ticker": "lesl",
+            "company_name": "Leslie's, Inc.",
+            "cik": "1821806",
+            "country": "us"
+        },
+        {
+            "ticker": "mnov",
+            "company_name": "MEDICINOVA INC",
+            "cik": "1226616",
+            "country": "us"
+        },
+        {
+            "ticker": "plab",
+            "company_name": "PHOTRONICS INC",
+            "cik": "810136",
+            "country": "us"
+        },
+        {
+            "ticker": "plug",
+            "company_name": "PLUG POWER INC",
+            "cik": "1093691",
+            "country": "us"
+        },
+        {
+            "ticker": "pmax",
+            "company_name": "Powell Max Ltd",
+            "cik": "2012096",
+            "country": "us"
+        },
+        {
+            "ticker": "qtrx",
+            "company_name": "Quanterix Corp",
+            "cik": "1503274",
+            "country": "us"
+        },
+        {
+            "ticker": "rgld",
+            "company_name": "ROYAL GOLD INC",
+            "cik": "85535",
+            "country": "us"
+        },
+        {
+            "ticker": "sbux",
+            "company_name": "STARBUCKS CORP",
+            "cik": "829224",
+            "country": "us"
+        },
+        {
+            "ticker": "well",
+            "company_name": "WELLTOWER INC.",
+            "cik": "766704",
+            "country": "us"
+        },
+        {
+            "ticker": "afcg",
+            "company_name": "AFC Gamma, Inc.",
+            "cik": "1822523",
+            "country": "us"
+        },
+        {
+            "ticker": "alot",
+            "company_name": "AstroNova, Inc.",
+            "cik": "8146",
+            "country": "us"
+        },
+        {
+            "ticker": "cflt",
+            "company_name": "Confluent, Inc.",
+            "cik": "1699838",
+            "country": "us"
+        },
+        {
+            "ticker": "dkng",
+            "company_name": "DraftKings Inc.",
+            "cik": "1883685",
+            "country": "us"
+        },
+        {
+            "ticker": "hubg",
+            "company_name": "Hub Group, Inc.",
+            "cik": "940942",
+            "country": "us"
+        },
+        {
+            "ticker": "iren",
+            "company_name": "Iris Energy Ltd",
+            "cik": "1878848",
+            "country": "us"
+        },
+        {
+            "ticker": "natl",
+            "company_name": "NCR Atleos Corp",
+            "cik": "1974138",
+            "country": "us"
+        },
+        {
+            "ticker": "ntst",
+            "company_name": "NETSTREIT Corp.",
+            "cik": "1798100",
+            "country": "us"
+        },
+        {
+            "ticker": "osis",
+            "company_name": "OSI SYSTEMS INC",
+            "cik": "1039065",
+            "country": "us"
+        },
+        {
+            "ticker": "quik",
+            "company_name": "QUICKLOGIC Corp",
+            "cik": "882508",
+            "country": "us"
+        },
+        {
+            "ticker": "revg",
+            "company_name": "REV Group, Inc.",
+            "cik": "1687221",
+            "country": "us"
+        },
+        {
+            "ticker": "schl",
+            "company_name": "SCHOLASTIC CORP",
+            "cik": "866729",
+            "country": "us"
+        },
+        {
+            "ticker": "sony",
+            "company_name": "Sony Group Corp",
+            "cik": "313838",
+            "country": "us"
+        },
+        {
+            "ticker": "stla",
+            "company_name": "Stellantis N.V.",
+            "cik": "1605484",
+            "country": "us"
+        },
+        {
+            "ticker": "talk",
+            "company_name": "Talkspace, Inc.",
+            "cik": "1803901",
+            "country": "us"
+        },
+        {
+            "ticker": "tech",
+            "company_name": "BIO-TECHNE Corp",
+            "cik": "842023",
+            "country": "us"
+        },
+        {
+            "ticker": "wolf",
+            "company_name": "WOLFSPEED, INC.",
+            "cik": "895419",
+            "country": "us"
+        },
+        {
+            "ticker": "amza",
+            "company_name": "INFRACAP MLP ETF",
+            "country": "us"
+        },
+        {
+            "ticker": "clfd",
+            "company_name": "Clearfield, Inc.",
+            "cik": "796505",
+            "country": "us"
+        },
+        {
+            "ticker": "dukb",
+            "company_name": "Duke Energy CORP",
+            "cik": "1326160",
+            "country": "us"
+        },
+        {
+            "ticker": "esgr",
+            "company_name": "Enstar Group LTD",
+            "cik": "1363829",
+            "country": "us"
+        },
+        {
+            "ticker": "gldm",
+            "company_name": "World Gold Trust",
+            "cik": "1618181",
+            "country": "us"
+        },
+        {
+            "ticker": "lfvn",
+            "company_name": "Lifevantage Corp",
+            "cik": "849146",
+            "country": "us"
+        },
+        {
+            "ticker": "meli",
+            "company_name": "MERCADOLIBRE INC",
+            "cik": "1099590",
+            "country": "us"
+        },
+        {
+            "ticker": "qcrh",
+            "company_name": "QCR HOLDINGS INC",
+            "cik": "906465",
+            "country": "us"
+        },
+        {
+            "ticker": "scwx",
+            "company_name": "SecureWorks Corp",
+            "cik": "1468666",
+            "country": "us"
+        },
+        {
+            "ticker": "avav",
+            "company_name": "AeroVironment Inc",
+            "cik": "1368622",
+            "country": "us"
+        },
+        {
+            "ticker": "bbdc",
+            "company_name": "Barings BDC, Inc.",
+            "cik": "1379785",
+            "country": "us"
+        },
+        {
+            "ticker": "bebe",
+            "company_name": "bebe stores, inc.",
+            "cik": "1059272",
+            "country": "us"
+        },
+        {
+            "ticker": "cgon",
+            "company_name": "CG Oncology, Inc.",
+            "cik": "1991792",
+            "country": "us"
+        },
+        {
+            "ticker": "cnxn",
+            "company_name": "PC CONNECTION INC",
+            "cik": "1050377",
+            "country": "us"
+        },
+        {
+            "ticker": "esnt",
+            "company_name": "Essent Group Ltd.",
+            "cik": "1448893",
+            "country": "us"
+        },
+        {
+            "ticker": "flyx",
+            "company_name": "FLYEXCLUSIVE INC.",
+            "cik": "1843973",
+            "country": "us"
+        },
+        {
+            "ticker": "grab",
+            "company_name": "Grab Holdings Ltd",
+            "cik": "1855612",
+            "country": "us"
+        },
+        {
+            "ticker": "ibrx",
+            "company_name": "ImmunityBio, Inc.",
+            "cik": "1326110",
+            "country": "us"
+        },
+        {
+            "ticker": "jbdi",
+            "company_name": "JBDI Holdings Ltd",
+            "cik": "1964314",
+            "country": "us"
+        },
+        {
+            "ticker": "jfin",
+            "company_name": "Jiayin Group Inc.",
+            "cik": "1743102",
+            "country": "us"
+        },
+        {
+            "ticker": "lrcx",
+            "company_name": "LAM RESEARCH CORP",
+            "cik": "707549",
+            "country": "us"
+        },
+        {
+            "ticker": "rost",
+            "company_name": "ROSS STORES, INC.",
+            "cik": "745732",
+            "country": "us"
+        }
+    ]
+}
