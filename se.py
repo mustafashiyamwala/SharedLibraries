@@ -92,41 +92,49 @@ for t in tickers:
 #######################################
 import glob
 import pandas as pd
+import nltk
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+nltk.downloader.download('vader_lexicon')
+vader = SentimentIntensityAnalyzer()
 
+for d in tickers:
+   if not os.path.exists(path_to_file + 'processed\\' + d):
+      os.makedirs(path_to_file + 'processed\\' + d)
+	  
 with open(path_to_file +"stopwords.txt", "r") as f:
     stopwords = f.read().split("\n")[:-1]
 
-t = 'aapl'
-combinedDf = pd.DataFrame()
-files = glob.glob(path_to_file  + 'staging\\' + t + '*.csv')
-for file in files:
-   df = pd.read_csv(file)
-   combinedDf = pd.concat([combinedDf, df])
-		 
+for t in tickers:
+   combinedDf = pd.DataFrame()
+   for file in glob.glob(path_to_file  + 'staging\\' + t + '\\*.csv'):
+      df = pd.read_csv(file)
+      combinedDf = pd.concat([combinedDf, df])
+   combinedDf["text_clean"] = combinedDf["title"].apply(preprocess_text)
+   lm_dict = pd.read_csv(path_to_file + "Loughran-McDonald_MasterDictionary_1993-2023.csv")
+   pos_words = lm_dict[lm_dict["Positive"] != 0]["Word"].str.lower().to_list()
+   neg_words = lm_dict[lm_dict["Negative"] != 0]["Word"].str.lower().to_list()
+   combinedDf = dictinory_algo(combinedDf, pos_words, neg_words)  
+   combinedDf['compound'] = combinedDf['title'].apply(lambda title: vader.polarity_scores(title)['compound'])
+   combinedDf.to_csv(path_to_file + 'processed\\' + t + '\\' + 'final_records.csv', index = False) 
+
 def preprocess_text(text):
    words = text.split()
    words = [w.lower() for w in words]
    words = [w for w in words if w not in stopwords and w.isalpha()]
    return " ".join(words)
-	
-combinedDf["text_clean"] = combinedDf["title"].apply(preprocess_text)
 
-lm_dict = pd.read_csv(path_to_file + "Loughran-McDonald_MasterDictionary_1993-2023.csv")
-pos_words = lm_dict[lm_dict["Positive"] != 0]["Word"].str.lower().to_list()
-neg_words = lm_dict[lm_dict["Negative"] != 0]["Word"].str.lower().to_list()
+def dictinory_algo(combinedDf, pos_words, neg_words):
+   combinedDf["n"] = combinedDf["text_clean"].apply(lambda x: len(x.split()))
+   combinedDf["n_pos"] = combinedDf["text_clean"].apply(lambda x: len([w for w in x.split() if w in pos_words]))
+   combinedDf["n_neg"] = combinedDf["text_clean"].apply(lambda x: len([w for w in x.split() if w in neg_words]))
+   combinedDf["lm_level"] = combinedDf["n_pos"] - combinedDf["n_neg"]
+   combinedDf["lm_score1"] = (combinedDf["n_pos"] - combinedDf["n_neg"]) / combinedDf["n"]
+   combinedDf["lm_score2"] = (combinedDf["n_pos"] - combinedDf["n_neg"]) / (combinedDf["n_pos"] + combinedDf["n_neg"])
+   CUTOFF = 0.3
+   combinedDf["lm_sentiment"] = combinedDf["lm_score2"].apply(lambda x: "positive" if x > CUTOFF else "negative" if x < -CUTOFF else "neutral")
+   return combinedDf
 
-combinedDf["n"] = combinedDf["text_clean"].apply(lambda x: len(x.split()))
-combinedDf["n_pos"] = combinedDf["text_clean"].apply(lambda x: len([w for w in x.split() if w in pos_words]))
-combinedDf["n_neg"] = combinedDf["text_clean"].apply(lambda x: len([w for w in x.split() if w in neg_words]))
-
-combinedDf["lm_level"] = combinedDf["n_pos"] - combinedDf["n_neg"]
-combinedDf["lm_score1"] = (combinedDf["n_pos"] - combinedDf["n_neg"]) / combinedDf["n"]
-combinedDf["lm_score2"] = (combinedDf["n_pos"] - combinedDf["n_neg"]) / (combinedDf["n_pos"] + combinedDf["n_neg"])
-CUTOFF = 0.3
-combinedDf["lm_sentiment"] = combinedDf["lm_score2"].apply(lambda x: "positive" if x > CUTOFF else "negative" if x < -CUTOFF else "neutral")
-
-
-#########################################
+###########################################
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import scipy
 import torch
@@ -151,10 +159,82 @@ def finbert_sentiment(text: str) -> tuple[float, float, float, str]:
 combinedDf[["finbert_pos", "finbert_neg", "finbert_neu", "finbert_sentiment"]] = (combinedDf["title"].apply(finbert_sentiment).apply(pd.Series))
 combinedDf["finbert_score"] = combinedDf["finbert_pos"] - dcombinedDff1["finbert_neg"]
 
+##################################
+import re
+from nltk.corpus import stopwords
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+
+analyser = SentimentIntensityAnalyzer()
+stop = stopwords.words('english')
+
+def analyser(combinedDf):
+   combinedDf['description']= combinedDf['description'].apply(lambda x: " ".join(x.lower() for x in str(x).split()))
+   combinedDf['word_count'] = combinedDf['description'].apply(lambda x: len(str(x).split(" ")))
+   combinedDf['stopwords'] = combinedDf['description'].apply(lambda x: " ".join(x for x in str(x).split() if x not in stop))
+   
+   return combinedDf
+
+def _removeNonAscii(s): 
+    return "".join(i for i in s if ord(i)<128)
+	
+def clean_text(text):
+    text = text.lower()
+    text = re.sub(r"what's", "what is ", text)
+    text = text.replace('(ap)', '')
+    text = re.sub(r"\'s", " is ", text)
+    text = re.sub(r"\'ve", " have ", text)
+    text = re.sub(r"can't", "cannot ", text)
+    text = re.sub(r"n't", " not ", text)
+    text = re.sub(r"i'm", "i am ", text)
+    text = re.sub(r"\'re", " are ", text)
+    text = re.sub(r"\'d", " would ", text)
+    text = re.sub(r"\'ll", " will ", text)
+    text = re.sub(r'\W+', ' ', text)
+    text = re.sub(r'\s+', ' ', text)
+    text = re.sub(r"\\", "", text)
+    text = re.sub(r"\'", "", text)    
+    text = re.sub(r"\"", "", text)
+    text = re.sub('[^a-zA-Z ?!]+', '', text)
+    text = _removeNonAscii(text)
+    text = text.strip()
+    return text	
+
+combinedDf=combinedDf.reset_index()
+Newsdf_description=combinedDf[['description','publishedAtDate']]
+
+for i in range(0,len(combinedDf)):
+    Newsdf_description['description'][i]=_removeNonAscii(Newsdf_description['description'][i])
+	
+
+
+for i in range(0,len(combinedDf)):
+     Newsdf_description['descriptionss'][i]=clean_text(Newsdf_description['description'][i])
+	 
+neg=[]
+pos=[]
+neu=[]
+compound=[]
+
+for i in range(0,len(Newsdf_description)):
+    #print(i)
+    sentence=Newsdf_description['description'][i]
+    scores= analyser.polarity_scores(sentence)
+    pos.append(scores['pos'])
+    neg.append(scores['neg'])
+    neu.append(scores['neu'])
+    compound.append(scores['compound'])
+	
+Newsdf_description['positive']=pos 
+Newsdf_description['negative']=neg
+Newsdf_description['neutral']=neu
+Newsdf_description['compound']=compound
+
+
+
 
 
 
 #https://github.com/hczhu/TickerTick-API?tab=readme-ov-file
-print(data)
+print(Newsdf_description)
 
 
